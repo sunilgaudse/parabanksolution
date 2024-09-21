@@ -1,0 +1,672 @@
+[DEBUG] 2024-09-21 15:27:17.473 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-21 15:27:17.479 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-21 15:27:17.480 - Parsing relationship: /_rels/.rels
+[TRACE] 2024-09-21 15:27:17.697 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 15:27:17.700 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 15:27:17.701 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 15:27:17.701 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 15:27:17.702 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 15:27:17.703 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 15:27:17.719 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 15:27:17.720 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 15:27:17.726 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 15:27:17.729 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 15:27:17.730 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 15:27:17.731 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 15:27:17.732 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 15:27:17.734 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 15:27:17.810 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 15:27:17.811 - Resolving type for handle themefd26doctype
+[TRACE] 2024-09-21 15:27:17.883 - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-09-21 15:27:17.890 - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-09-21 15:27:17.897 - Resolving type for handle ctfonts6623type
+[TRACE] 2024-09-21 15:27:17.903 - Resolving type for handle ctfont14d8type
+[TRACE] 2024-09-21 15:27:17.909 - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-09-21 15:27:17.912 - Resolving type for handle ctfill550ctype
+[TRACE] 2024-09-21 15:27:17.916 - Resolving type for handle ctborders0d66type
+[TRACE] 2024-09-21 15:27:17.920 - Resolving type for handle ctborderf935type
+[TRACE] 2024-09-21 15:27:17.925 - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-09-21 15:27:17.930 - Resolving type for handle ctxf97f7type
+[TRACE] 2024-09-21 15:27:17.935 - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-09-21 15:27:17.937 - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-09-21 15:27:17.941 - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-09-21 15:27:17.946 - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-09-21 15:27:17.950 - Resolving type for handle ctsst44f3type
+[TRACE] 2024-09-21 15:27:17.968 - Resolving type for handle ctrsta472type
+[DEBUG] 2024-09-21 15:27:18.005 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-09-21 15:27:18.008 - Resolving type for handle workbookec17doctype
+[TRACE] 2024-09-21 15:27:18.015 - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-09-21 15:27:18.024 - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-09-21 15:27:18.027 - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-09-21 15:27:18.031 - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-09-21 15:27:18.034 - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-09-21 15:27:18.041 - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-09-21 15:27:18.058 - Resolving type for handle ctcols627ctype
+[TRACE] 2024-09-21 15:27:18.069 - Resolving type for handle ctcola95ftype
+[TRACE] 2024-09-21 15:27:18.093 - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-09-21 15:27:18.098 - Resolving type for handle ctrowdd39type
+[TRACE] 2024-09-21 15:27:18.109 - Resolving type for handle ctcell842btype
+[TRACE] 2024-09-21 15:27:18.125 - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-09-21 15:27:18.133 - Resolving type for handle cthyperlinks6416type
+[TRACE] 2024-09-21 15:27:18.140 - Resolving type for handle cthyperlink0c85type
+[TRACE] 2024-09-21 15:27:18.150 - Resolving type for handle stxstringf179type
+[TRACE] 2024-09-21 15:27:18.155 - Resolving type for handle stcelltypebf95type
+[TRACE] 2024-09-21 15:27:18.187 - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2024-09-21 15:27:18.192 - Resolving type for handle stnumfmtid76fbtype
+[INFO ] 2024-09-21 15:27:18.214 - ======================================================
+[INFO ] 2024-09-21 15:27:18.214 - Initializing the browser.
+[INFO ] 2024-09-21 15:27:20.023 - Browser initializing completed.
+[INFO ] 2024-09-21 15:27:20.024 - Opening the URL
+[INFO ] 2024-09-21 15:27:24.935 - Test case alreadyExistCustomer execution started.
+[INFO ] 2024-09-21 15:27:28.314 - Test case success with name alreadyExistCustomer
+[INFO ] 2024-09-21 15:27:28.314 - ====================================================
+[INFO ] 2024-09-21 15:27:28.711 - Browser closed.
+[DEBUG] 2024-09-21 15:27:28.727 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-21 15:27:28.729 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-21 15:27:28.731 - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-09-21 15:27:28.760 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-09-21 15:27:28.781 - ======================================================
+[INFO ] 2024-09-21 15:27:28.782 - Initializing the browser.
+[INFO ] 2024-09-21 15:27:30.028 - Browser initializing completed.
+[INFO ] 2024-09-21 15:27:30.028 - Opening the URL
+[INFO ] 2024-09-21 15:27:33.784 - Test case registrationSuccessfull execution started.
+[INFO ] 2024-09-21 15:27:36.551 - Test case success with name registrationSuccessfull
+[INFO ] 2024-09-21 15:27:36.551 - ====================================================
+[INFO ] 2024-09-21 15:27:37.045 - Browser closed.
+[INFO ] 2024-09-21 15:27:37.050 - ======================================================
+[INFO ] 2024-09-21 15:27:37.050 - Initializing the browser.
+[INFO ] 2024-09-21 15:27:38.295 - Browser initializing completed.
+[INFO ] 2024-09-21 15:27:38.296 - Opening the URL
+[INFO ] 2024-09-21 15:27:41.272 - Test case SuccessfulLogin execution started.
+[INFO ] 2024-09-21 15:27:43.071 - Test case success with name SuccessfulLogin
+[INFO ] 2024-09-21 15:27:43.071 - ====================================================
+[INFO ] 2024-09-21 15:27:43.554 - ======================================================
+[INFO ] 2024-09-21 15:27:43.554 - Initializing the browser.
+[INFO ] 2024-09-21 15:27:44.749 - Browser initializing completed.
+[INFO ] 2024-09-21 15:27:44.749 - Opening the URL
+[INFO ] 2024-09-21 15:27:49.633 - Test case openSavingAccount execution started.
+[INFO ] 2024-09-21 15:27:52.154 - Test case success with name openSavingAccount
+[INFO ] 2024-09-21 15:27:52.154 - ====================================================
+[INFO ] 2024-09-21 15:27:52.590 - Browser closed.
+[DEBUG] 2024-09-21 15:29:22.585 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-21 15:29:22.590 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-21 15:29:22.592 - Parsing relationship: /_rels/.rels
+[TRACE] 2024-09-21 15:29:22.828 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 15:29:22.833 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 15:29:22.834 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 15:29:22.834 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 15:29:22.834 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 15:29:22.835 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 15:29:22.850 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 15:29:22.851 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 15:29:22.858 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 15:29:22.859 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 15:29:22.860 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 15:29:22.862 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 15:29:22.863 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 15:29:22.864 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 15:29:22.921 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 15:29:22.922 - Resolving type for handle themefd26doctype
+[TRACE] 2024-09-21 15:29:22.990 - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-09-21 15:29:22.996 - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-09-21 15:29:23.004 - Resolving type for handle ctfonts6623type
+[TRACE] 2024-09-21 15:29:23.006 - Resolving type for handle ctfont14d8type
+[TRACE] 2024-09-21 15:29:23.012 - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-09-21 15:29:23.015 - Resolving type for handle ctfill550ctype
+[TRACE] 2024-09-21 15:29:23.017 - Resolving type for handle ctborders0d66type
+[TRACE] 2024-09-21 15:29:23.023 - Resolving type for handle ctborderf935type
+[TRACE] 2024-09-21 15:29:23.028 - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-09-21 15:29:23.030 - Resolving type for handle ctxf97f7type
+[TRACE] 2024-09-21 15:29:23.035 - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-09-21 15:29:23.037 - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-09-21 15:29:23.039 - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-09-21 15:29:23.044 - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-09-21 15:29:23.049 - Resolving type for handle ctsst44f3type
+[TRACE] 2024-09-21 15:29:23.065 - Resolving type for handle ctrsta472type
+[DEBUG] 2024-09-21 15:29:23.092 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-09-21 15:29:23.093 - Resolving type for handle workbookec17doctype
+[TRACE] 2024-09-21 15:29:23.101 - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-09-21 15:29:23.112 - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-09-21 15:29:23.117 - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-09-21 15:29:23.120 - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-09-21 15:29:23.126 - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-09-21 15:29:23.133 - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-09-21 15:29:23.144 - Resolving type for handle ctcols627ctype
+[TRACE] 2024-09-21 15:29:23.150 - Resolving type for handle ctcola95ftype
+[TRACE] 2024-09-21 15:29:23.176 - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-09-21 15:29:23.182 - Resolving type for handle ctrowdd39type
+[TRACE] 2024-09-21 15:29:23.195 - Resolving type for handle ctcell842btype
+[TRACE] 2024-09-21 15:29:23.215 - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-09-21 15:29:23.222 - Resolving type for handle cthyperlinks6416type
+[TRACE] 2024-09-21 15:29:23.227 - Resolving type for handle cthyperlink0c85type
+[TRACE] 2024-09-21 15:29:23.242 - Resolving type for handle stxstringf179type
+[TRACE] 2024-09-21 15:29:23.250 - Resolving type for handle stcelltypebf95type
+[TRACE] 2024-09-21 15:29:23.275 - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2024-09-21 15:29:23.280 - Resolving type for handle stnumfmtid76fbtype
+[INFO ] 2024-09-21 15:29:23.297 - ======================================================
+[INFO ] 2024-09-21 15:29:23.297 - Initializing the browser.
+[INFO ] 2024-09-21 15:29:25.265 - Browser initializing completed.
+[INFO ] 2024-09-21 15:29:25.265 - Opening the URL
+[INFO ] 2024-09-21 15:29:29.344 - Test case alreadyExistCustomer execution started.
+[INFO ] 2024-09-21 15:29:32.792 - Test case success with name alreadyExistCustomer
+[INFO ] 2024-09-21 15:29:32.793 - ====================================================
+[INFO ] 2024-09-21 15:29:33.308 - Browser closed.
+[DEBUG] 2024-09-21 15:29:33.323 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-21 15:29:33.326 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-21 15:29:33.327 - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-09-21 15:29:33.353 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-09-21 15:29:33.372 - ======================================================
+[INFO ] 2024-09-21 15:29:33.373 - Initializing the browser.
+[INFO ] 2024-09-21 15:29:34.538 - Browser initializing completed.
+[INFO ] 2024-09-21 15:29:34.538 - Opening the URL
+[INFO ] 2024-09-21 15:29:38.042 - Test case registrationSuccessfull execution started.
+[INFO ] 2024-09-21 15:29:41.216 - Test case success with name registrationSuccessfull
+[INFO ] 2024-09-21 15:29:41.216 - ====================================================
+[INFO ] 2024-09-21 15:29:41.598 - Browser closed.
+[INFO ] 2024-09-21 15:29:41.602 - ======================================================
+[INFO ] 2024-09-21 15:29:41.602 - Initializing the browser.
+[INFO ] 2024-09-21 15:29:42.623 - Browser initializing completed.
+[INFO ] 2024-09-21 15:29:42.624 - Opening the URL
+[INFO ] 2024-09-21 15:29:45.799 - Test case SuccessfulLogin execution started.
+[INFO ] 2024-09-21 15:29:48.427 - Test case success with name SuccessfulLogin
+[INFO ] 2024-09-21 15:29:48.427 - ====================================================
+[INFO ] 2024-09-21 15:29:48.837 - ======================================================
+[INFO ] 2024-09-21 15:29:48.837 - Initializing the browser.
+[INFO ] 2024-09-21 15:29:49.935 - Browser initializing completed.
+[INFO ] 2024-09-21 15:29:49.937 - Opening the URL
+[INFO ] 2024-09-21 15:29:54.274 - Test case openSavingAccount execution started.
+[INFO ] 2024-09-21 15:29:56.249 - Test case success with name openSavingAccount
+[INFO ] 2024-09-21 15:29:56.249 - ====================================================
+[INFO ] 2024-09-21 15:29:56.629 - Browser closed.
+[DEBUG] 2024-09-21 22:28:18.017 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-21 22:28:18.025 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-21 22:28:18.026 - Parsing relationship: /_rels/.rels
+[TRACE] 2024-09-21 22:28:18.227 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 22:28:18.231 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 22:28:18.231 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 22:28:18.232 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 22:28:18.232 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 22:28:18.233 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 22:28:18.248 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 22:28:18.249 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 22:28:18.255 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 22:28:18.256 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 22:28:18.257 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 22:28:18.258 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 22:28:18.259 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 22:28:18.260 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 22:28:18.320 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 22:28:18.322 - Resolving type for handle themefd26doctype
+[TRACE] 2024-09-21 22:28:18.398 - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-09-21 22:28:18.404 - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-09-21 22:28:18.409 - Resolving type for handle ctfonts6623type
+[TRACE] 2024-09-21 22:28:18.412 - Resolving type for handle ctfont14d8type
+[TRACE] 2024-09-21 22:28:18.420 - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-09-21 22:28:18.423 - Resolving type for handle ctfill550ctype
+[TRACE] 2024-09-21 22:28:18.425 - Resolving type for handle ctborders0d66type
+[TRACE] 2024-09-21 22:28:18.428 - Resolving type for handle ctborderf935type
+[TRACE] 2024-09-21 22:28:18.431 - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-09-21 22:28:18.434 - Resolving type for handle ctxf97f7type
+[TRACE] 2024-09-21 22:28:18.439 - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-09-21 22:28:18.441 - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-09-21 22:28:18.445 - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-09-21 22:28:18.448 - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-09-21 22:28:18.455 - Resolving type for handle ctsst44f3type
+[TRACE] 2024-09-21 22:28:18.468 - Resolving type for handle ctrsta472type
+[DEBUG] 2024-09-21 22:28:18.493 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-09-21 22:28:18.494 - Resolving type for handle workbookec17doctype
+[TRACE] 2024-09-21 22:28:18.501 - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-09-21 22:28:18.510 - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-09-21 22:28:18.512 - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-09-21 22:28:18.516 - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-09-21 22:28:18.520 - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-09-21 22:28:18.529 - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-09-21 22:28:18.543 - Resolving type for handle ctcols627ctype
+[TRACE] 2024-09-21 22:28:18.548 - Resolving type for handle ctcola95ftype
+[TRACE] 2024-09-21 22:28:18.571 - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-09-21 22:28:18.574 - Resolving type for handle ctrowdd39type
+[TRACE] 2024-09-21 22:28:18.581 - Resolving type for handle ctcell842btype
+[TRACE] 2024-09-21 22:28:18.595 - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-09-21 22:28:18.603 - Resolving type for handle cthyperlinks6416type
+[TRACE] 2024-09-21 22:28:18.606 - Resolving type for handle cthyperlink0c85type
+[TRACE] 2024-09-21 22:28:18.613 - Resolving type for handle stxstringf179type
+[TRACE] 2024-09-21 22:28:18.619 - Resolving type for handle stcelltypebf95type
+[TRACE] 2024-09-21 22:28:18.642 - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2024-09-21 22:28:18.646 - Resolving type for handle stnumfmtid76fbtype
+[INFO ] 2024-09-21 22:28:18.664 - ======================================================
+[INFO ] 2024-09-21 22:28:18.664 - Initializing the browser.
+[INFO ] 2024-09-21 22:28:20.563 - Browser initializing completed.
+[INFO ] 2024-09-21 22:28:20.563 - Opening the URL
+[INFO ] 2024-09-21 22:28:26.083 - Test case alreadyExistCustomer execution started.
+[INFO ] 2024-09-21 22:29:28.352 - Test case failed with name alreadyExistCustomer
+[INFO ] 2024-09-21 22:29:29.102 - ====================================================
+[INFO ] 2024-09-21 22:29:29.585 - Browser closed.
+[DEBUG] 2024-09-21 22:29:29.601 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-21 22:29:29.604 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-21 22:29:29.606 - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-09-21 22:29:29.645 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-09-21 22:29:29.671 - ======================================================
+[INFO ] 2024-09-21 22:29:29.671 - Initializing the browser.
+[INFO ] 2024-09-21 22:29:30.586 - Browser initializing completed.
+[INFO ] 2024-09-21 22:29:30.586 - Opening the URL
+[INFO ] 2024-09-21 22:29:35.927 - Test case registrationSuccessfull execution started.
+[INFO ] 2024-09-21 22:29:38.937 - Test case success with name registrationSuccessfull
+[INFO ] 2024-09-21 22:29:38.937 - ====================================================
+[INFO ] 2024-09-21 22:29:39.334 - Browser closed.
+[INFO ] 2024-09-21 22:29:39.348 - ======================================================
+[INFO ] 2024-09-21 22:29:39.349 - Initializing the browser.
+[INFO ] 2024-09-21 22:29:40.452 - Browser initializing completed.
+[INFO ] 2024-09-21 22:29:40.453 - Opening the URL
+[INFO ] 2024-09-21 22:29:44.183 - Test case SuccessfulLogin execution started.
+[INFO ] 2024-09-21 22:30:45.210 - Test case failed with name SuccessfulLogin
+[INFO ] 2024-09-21 22:30:45.884 - ====================================================
+[INFO ] 2024-09-21 22:30:46.194 - ======================================================
+[INFO ] 2024-09-21 22:30:46.194 - Initializing the browser.
+[INFO ] 2024-09-21 22:30:47.219 - Browser initializing completed.
+[INFO ] 2024-09-21 22:30:47.220 - Opening the URL
+[INFO ] 2024-09-21 22:30:51.994 - Test case openSavingAccount execution started.
+[INFO ] 2024-09-21 22:31:52.079 - Test case failed with name openSavingAccount
+[INFO ] 2024-09-21 22:31:52.713 - ====================================================
+[INFO ] 2024-09-21 22:31:52.975 - Browser closed.
+[INFO ] 2024-09-21 22:32:59.257 - ======================================================
+[INFO ] 2024-09-21 22:32:59.261 - Initializing the browser.
+[INFO ] 2024-09-21 22:33:00.939 - Browser initializing completed.
+[INFO ] 2024-09-21 22:33:00.940 - Opening the URL
+[INFO ] 2024-09-21 22:33:43.469 - Browser closed.
+[DEBUG] 2024-09-21 22:33:43.651 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-21 22:33:43.655 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-21 22:33:43.657 - Parsing relationship: /_rels/.rels
+[TRACE] 2024-09-21 22:33:43.862 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 22:33:43.866 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 22:33:43.867 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 22:33:43.867 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 22:33:43.868 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 22:33:43.869 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 22:33:43.886 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 22:33:43.887 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 22:33:43.893 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 22:33:43.894 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 22:33:43.895 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 22:33:43.897 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 22:33:43.898 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 22:33:43.899 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 22:33:43.982 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 22:33:43.983 - Resolving type for handle themefd26doctype
+[TRACE] 2024-09-21 22:33:44.075 - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-09-21 22:33:44.082 - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-09-21 22:33:44.089 - Resolving type for handle ctfonts6623type
+[TRACE] 2024-09-21 22:33:44.094 - Resolving type for handle ctfont14d8type
+[TRACE] 2024-09-21 22:33:44.102 - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-09-21 22:33:44.109 - Resolving type for handle ctfill550ctype
+[TRACE] 2024-09-21 22:33:44.112 - Resolving type for handle ctborders0d66type
+[TRACE] 2024-09-21 22:33:44.116 - Resolving type for handle ctborderf935type
+[TRACE] 2024-09-21 22:33:44.123 - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-09-21 22:33:44.127 - Resolving type for handle ctxf97f7type
+[TRACE] 2024-09-21 22:33:44.131 - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-09-21 22:33:44.134 - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-09-21 22:33:44.141 - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-09-21 22:33:44.145 - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-09-21 22:33:44.153 - Resolving type for handle ctsst44f3type
+[TRACE] 2024-09-21 22:33:44.168 - Resolving type for handle ctrsta472type
+[DEBUG] 2024-09-21 22:33:44.198 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-09-21 22:33:44.200 - Resolving type for handle workbookec17doctype
+[TRACE] 2024-09-21 22:33:44.211 - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-09-21 22:33:44.219 - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-09-21 22:33:44.223 - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-09-21 22:33:44.225 - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-09-21 22:33:44.229 - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-09-21 22:33:44.239 - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-09-21 22:33:44.250 - Resolving type for handle ctcols627ctype
+[TRACE] 2024-09-21 22:33:44.258 - Resolving type for handle ctcola95ftype
+[TRACE] 2024-09-21 22:33:44.285 - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-09-21 22:33:44.290 - Resolving type for handle ctrowdd39type
+[TRACE] 2024-09-21 22:33:44.296 - Resolving type for handle ctcell842btype
+[TRACE] 2024-09-21 22:33:44.305 - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-09-21 22:33:44.312 - Resolving type for handle cthyperlinks6416type
+[TRACE] 2024-09-21 22:33:44.315 - Resolving type for handle cthyperlink0c85type
+[TRACE] 2024-09-21 22:33:44.325 - Resolving type for handle stxstringf179type
+[TRACE] 2024-09-21 22:33:44.329 - Resolving type for handle stcelltypebf95type
+[TRACE] 2024-09-21 22:33:44.352 - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2024-09-21 22:33:44.357 - Resolving type for handle stnumfmtid76fbtype
+[INFO ] 2024-09-21 22:33:44.364 - ======================================================
+[INFO ] 2024-09-21 22:33:44.365 - Initializing the browser.
+[INFO ] 2024-09-21 22:33:45.205 - Browser initializing completed.
+[INFO ] 2024-09-21 22:33:45.206 - Opening the URL
+[INFO ] 2024-09-21 22:34:21.624 - Browser closed.
+[DEBUG] 2024-09-21 22:34:21.652 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-21 22:34:21.655 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-21 22:34:21.658 - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-09-21 22:34:21.694 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-09-21 22:34:21.722 - ======================================================
+[INFO ] 2024-09-21 22:34:21.722 - Initializing the browser.
+[INFO ] 2024-09-21 22:34:22.764 - Browser initializing completed.
+[INFO ] 2024-09-21 22:34:22.765 - Opening the URL
+[INFO ] 2024-09-21 22:34:24.009 - ======================================================
+[INFO ] 2024-09-21 22:34:24.010 - Initializing the browser.
+[INFO ] 2024-09-21 22:34:25.324 - Browser initializing completed.
+[INFO ] 2024-09-21 22:34:25.324 - Opening the URL
+[DEBUG] 2024-09-21 23:26:15.533 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-21 23:26:15.538 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-21 23:26:15.540 - Parsing relationship: /_rels/.rels
+[TRACE] 2024-09-21 23:26:15.724 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 23:26:15.728 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 23:26:15.729 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 23:26:15.729 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 23:26:15.730 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 23:26:15.731 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 23:26:15.743 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 23:26:15.744 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 23:26:15.749 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 23:26:15.751 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 23:26:15.752 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 23:26:15.752 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 23:26:15.753 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 23:26:15.754 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 23:26:15.813 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 23:26:15.814 - Resolving type for handle themefd26doctype
+[TRACE] 2024-09-21 23:26:15.881 - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-09-21 23:26:15.887 - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-09-21 23:26:15.891 - Resolving type for handle ctfonts6623type
+[TRACE] 2024-09-21 23:26:15.894 - Resolving type for handle ctfont14d8type
+[TRACE] 2024-09-21 23:26:15.899 - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-09-21 23:26:15.902 - Resolving type for handle ctfill550ctype
+[TRACE] 2024-09-21 23:26:15.904 - Resolving type for handle ctborders0d66type
+[TRACE] 2024-09-21 23:26:15.906 - Resolving type for handle ctborderf935type
+[TRACE] 2024-09-21 23:26:15.910 - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-09-21 23:26:15.913 - Resolving type for handle ctxf97f7type
+[TRACE] 2024-09-21 23:26:15.917 - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-09-21 23:26:15.920 - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-09-21 23:26:15.922 - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-09-21 23:26:15.926 - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-09-21 23:26:15.931 - Resolving type for handle ctsst44f3type
+[TRACE] 2024-09-21 23:26:15.945 - Resolving type for handle ctrsta472type
+[DEBUG] 2024-09-21 23:26:15.977 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-09-21 23:26:15.979 - Resolving type for handle workbookec17doctype
+[TRACE] 2024-09-21 23:26:15.984 - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-09-21 23:26:15.992 - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-09-21 23:26:15.995 - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-09-21 23:26:15.999 - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-09-21 23:26:16.003 - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-09-21 23:26:16.009 - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-09-21 23:26:16.022 - Resolving type for handle ctcols627ctype
+[TRACE] 2024-09-21 23:26:16.027 - Resolving type for handle ctcola95ftype
+[TRACE] 2024-09-21 23:26:16.050 - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-09-21 23:26:16.054 - Resolving type for handle ctrowdd39type
+[TRACE] 2024-09-21 23:26:16.061 - Resolving type for handle ctcell842btype
+[TRACE] 2024-09-21 23:26:16.071 - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-09-21 23:26:16.078 - Resolving type for handle cthyperlinks6416type
+[TRACE] 2024-09-21 23:26:16.081 - Resolving type for handle cthyperlink0c85type
+[TRACE] 2024-09-21 23:26:16.090 - Resolving type for handle stxstringf179type
+[TRACE] 2024-09-21 23:26:16.094 - Resolving type for handle stcelltypebf95type
+[TRACE] 2024-09-21 23:26:16.113 - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2024-09-21 23:26:16.118 - Resolving type for handle stnumfmtid76fbtype
+[INFO ] 2024-09-21 23:26:16.135 - ======================================================
+[INFO ] 2024-09-21 23:26:16.135 - Initializing the browser.
+[INFO ] 2024-09-21 23:26:17.884 - Browser initializing completed.
+[INFO ] 2024-09-21 23:26:17.885 - Opening the URL
+[INFO ] 2024-09-21 23:26:22.859 - Test case alreadyExistCustomer execution started.
+[ERROR] 2024-09-21 23:27:25.786 - Test case failed with name alreadyExistCustomer
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#customer\.username\.errors"}
+  (Session info: chrome=128.0.6613.138)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.23.1', revision: '656257d8e9'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [936267b9a3fde3a5476171167fb2ca1b, findElement {using=id, value=customer.username.errors}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.86 (3045ed680fda..., userDataDir: C:\Users\bhrx\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57456}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:57456/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 936267b9a3fde3a5476171167fb2ca1b
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.23.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.23.1.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.23.1.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.23.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.23.1.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.23.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.23.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.23.1.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.23.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.23.1.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.23.1.jar:?]
+	at com.parabankautomationtest.RegisterPageTest.alreadyExistCustomer(RegisterPageTest.java:63) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestRunner.run(TestRunner.java:614) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+[INFO ] 2024-09-21 23:27:26.743 - ====================================================
+[INFO ] 2024-09-21 23:27:27.143 - Browser closed.
+[DEBUG] 2024-09-21 23:27:27.156 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-21 23:27:27.158 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-21 23:27:27.160 - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-09-21 23:27:27.193 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-09-21 23:27:27.208 - ======================================================
+[INFO ] 2024-09-21 23:27:27.208 - Initializing the browser.
+[INFO ] 2024-09-21 23:27:28.060 - Browser initializing completed.
+[INFO ] 2024-09-21 23:27:28.061 - Opening the URL
+[INFO ] 2024-09-21 23:27:33.186 - Test case registrationSuccessfull execution started.
+[INFO ] 2024-09-21 23:27:35.770 - Test case success with name registrationSuccessfull
+[INFO ] 2024-09-21 23:27:35.770 - ====================================================
+[INFO ] 2024-09-21 23:27:36.192 - Browser closed.
+[INFO ] 2024-09-21 23:27:36.197 - ======================================================
+[INFO ] 2024-09-21 23:27:36.197 - Initializing the browser.
+[INFO ] 2024-09-21 23:27:37.334 - Browser initializing completed.
+[INFO ] 2024-09-21 23:27:37.335 - Opening the URL
+[INFO ] 2024-09-21 23:27:40.485 - Test case SuccessfulLogin execution started.
+[INFO ] 2024-09-21 23:27:42.675 - Test case success with name SuccessfulLogin
+[INFO ] 2024-09-21 23:27:42.675 - ====================================================
+[INFO ] 2024-09-21 23:27:43.108 - ======================================================
+[INFO ] 2024-09-21 23:27:43.109 - Initializing the browser.
+[INFO ] 2024-09-21 23:27:44.394 - Browser initializing completed.
+[INFO ] 2024-09-21 23:27:44.396 - Opening the URL
+[INFO ] 2024-09-21 23:27:48.323 - Test case openSavingAccount execution started.
+[INFO ] 2024-09-21 23:27:50.602 - Test case success with name openSavingAccount
+[INFO ] 2024-09-21 23:27:50.602 - ====================================================
+[INFO ] 2024-09-21 23:27:50.998 - Browser closed.
+[DEBUG] 2024-09-21 23:32:13.500 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-21 23:32:13.506 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-21 23:32:13.507 - Parsing relationship: /_rels/.rels
+[TRACE] 2024-09-21 23:32:13.706 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 23:32:13.709 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 23:32:13.710 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 23:32:13.711 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 23:32:13.711 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 23:32:13.713 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 23:32:13.725 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 23:32:13.726 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 23:32:13.731 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 23:32:13.733 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 23:32:13.734 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 23:32:13.735 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 23:32:13.736 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 23:32:13.737 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 23:32:13.800 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 23:32:13.801 - Resolving type for handle themefd26doctype
+[TRACE] 2024-09-21 23:32:13.867 - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-09-21 23:32:13.872 - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-09-21 23:32:13.877 - Resolving type for handle ctfonts6623type
+[TRACE] 2024-09-21 23:32:13.880 - Resolving type for handle ctfont14d8type
+[TRACE] 2024-09-21 23:32:13.885 - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-09-21 23:32:13.887 - Resolving type for handle ctfill550ctype
+[TRACE] 2024-09-21 23:32:13.889 - Resolving type for handle ctborders0d66type
+[TRACE] 2024-09-21 23:32:13.891 - Resolving type for handle ctborderf935type
+[TRACE] 2024-09-21 23:32:13.896 - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-09-21 23:32:13.900 - Resolving type for handle ctxf97f7type
+[TRACE] 2024-09-21 23:32:13.904 - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-09-21 23:32:13.907 - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-09-21 23:32:13.911 - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-09-21 23:32:13.915 - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-09-21 23:32:13.921 - Resolving type for handle ctsst44f3type
+[TRACE] 2024-09-21 23:32:13.932 - Resolving type for handle ctrsta472type
+[DEBUG] 2024-09-21 23:32:13.958 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-09-21 23:32:13.960 - Resolving type for handle workbookec17doctype
+[TRACE] 2024-09-21 23:32:13.966 - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-09-21 23:32:13.974 - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-09-21 23:32:13.976 - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-09-21 23:32:13.980 - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-09-21 23:32:13.983 - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-09-21 23:32:13.994 - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-09-21 23:32:14.006 - Resolving type for handle ctcols627ctype
+[TRACE] 2024-09-21 23:32:14.012 - Resolving type for handle ctcola95ftype
+[TRACE] 2024-09-21 23:32:14.040 - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-09-21 23:32:14.044 - Resolving type for handle ctrowdd39type
+[TRACE] 2024-09-21 23:32:14.052 - Resolving type for handle ctcell842btype
+[TRACE] 2024-09-21 23:32:14.061 - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-09-21 23:32:14.069 - Resolving type for handle cthyperlinks6416type
+[TRACE] 2024-09-21 23:32:14.073 - Resolving type for handle cthyperlink0c85type
+[TRACE] 2024-09-21 23:32:14.082 - Resolving type for handle stxstringf179type
+[TRACE] 2024-09-21 23:32:14.086 - Resolving type for handle stcelltypebf95type
+[TRACE] 2024-09-21 23:32:14.107 - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2024-09-21 23:32:14.111 - Resolving type for handle stnumfmtid76fbtype
+[INFO ] 2024-09-21 23:32:14.128 - ======================================================
+[INFO ] 2024-09-21 23:32:14.128 - Initializing the browser.
+[INFO ] 2024-09-21 23:32:16.079 - Browser initializing completed.
+[INFO ] 2024-09-21 23:32:16.079 - Opening the URL
+[INFO ] 2024-09-21 23:32:21.436 - Test case alreadyExistCustomer execution started.
+[INFO ] 2024-09-21 23:32:24.031 - Test case success with name alreadyExistCustomer
+[INFO ] 2024-09-21 23:32:24.031 - ====================================================
+[INFO ] 2024-09-21 23:32:24.453 - Browser closed.
+[DEBUG] 2024-09-21 23:32:24.467 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-21 23:32:24.469 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-21 23:32:24.471 - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-09-21 23:32:24.498 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-09-21 23:32:24.521 - ======================================================
+[INFO ] 2024-09-21 23:32:24.521 - Initializing the browser.
+[INFO ] 2024-09-21 23:32:25.534 - Browser initializing completed.
+[INFO ] 2024-09-21 23:32:25.534 - Opening the URL
+[INFO ] 2024-09-21 23:32:29.179 - Test case registrationSuccessfull execution started.
+[INFO ] 2024-09-21 23:32:32.195 - Test case success with name registrationSuccessfull
+[INFO ] 2024-09-21 23:32:32.196 - ====================================================
+[INFO ] 2024-09-21 23:32:32.588 - Browser closed.
+[INFO ] 2024-09-21 23:32:32.593 - ======================================================
+[INFO ] 2024-09-21 23:32:32.593 - Initializing the browser.
+[INFO ] 2024-09-21 23:32:33.716 - Browser initializing completed.
+[INFO ] 2024-09-21 23:32:33.717 - Opening the URL
+[INFO ] 2024-09-21 23:32:36.315 - Test case SuccessfulLogin execution started.
+[INFO ] 2024-09-21 23:32:39.367 - Test case success with name SuccessfulLogin
+[INFO ] 2024-09-21 23:32:39.367 - ====================================================
+[INFO ] 2024-09-21 23:32:39.817 - ======================================================
+[INFO ] 2024-09-21 23:32:39.818 - Initializing the browser.
+[INFO ] 2024-09-21 23:32:40.812 - Browser initializing completed.
+[INFO ] 2024-09-21 23:32:40.813 - Opening the URL
+[INFO ] 2024-09-21 23:32:46.144 - Test case openSavingAccount execution started.
+[INFO ] 2024-09-21 23:32:47.934 - Test case success with name openSavingAccount
+[INFO ] 2024-09-21 23:32:47.934 - ====================================================
+[INFO ] 2024-09-21 23:32:48.396 - Browser closed.
+[DEBUG] 2024-09-21 23:37:36.176 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-21 23:37:36.185 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-21 23:37:36.187 - Parsing relationship: /_rels/.rels
+[TRACE] 2024-09-21 23:37:36.523 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 23:37:36.530 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 23:37:36.532 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 23:37:36.533 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 23:37:36.535 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 23:37:36.538 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 23:37:36.559 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-21 23:37:36.562 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 23:37:36.572 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-21 23:37:36.574 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 23:37:36.576 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-21 23:37:36.579 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 23:37:36.582 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-21 23:37:36.585 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 23:37:36.709 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-21 23:37:36.711 - Resolving type for handle themefd26doctype
+[TRACE] 2024-09-21 23:37:36.834 - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-09-21 23:37:36.848 - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-09-21 23:37:36.858 - Resolving type for handle ctfonts6623type
+[TRACE] 2024-09-21 23:37:36.864 - Resolving type for handle ctfont14d8type
+[TRACE] 2024-09-21 23:37:36.875 - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-09-21 23:37:36.880 - Resolving type for handle ctfill550ctype
+[TRACE] 2024-09-21 23:37:36.884 - Resolving type for handle ctborders0d66type
+[TRACE] 2024-09-21 23:37:36.888 - Resolving type for handle ctborderf935type
+[TRACE] 2024-09-21 23:37:36.896 - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-09-21 23:37:36.901 - Resolving type for handle ctxf97f7type
+[TRACE] 2024-09-21 23:37:36.906 - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-09-21 23:37:36.910 - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-09-21 23:37:36.916 - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-09-21 23:37:36.922 - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-09-21 23:37:36.931 - Resolving type for handle ctsst44f3type
+[TRACE] 2024-09-21 23:37:36.948 - Resolving type for handle ctrsta472type
+[DEBUG] 2024-09-21 23:37:36.998 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-09-21 23:37:37.001 - Resolving type for handle workbookec17doctype
+[TRACE] 2024-09-21 23:37:37.013 - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-09-21 23:37:37.025 - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-09-21 23:37:37.034 - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-09-21 23:37:37.042 - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-09-21 23:37:37.065 - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-09-21 23:37:37.080 - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-09-21 23:37:37.100 - Resolving type for handle ctcols627ctype
+[TRACE] 2024-09-21 23:37:37.111 - Resolving type for handle ctcola95ftype
+[TRACE] 2024-09-21 23:37:37.155 - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-09-21 23:37:37.160 - Resolving type for handle ctrowdd39type
+[TRACE] 2024-09-21 23:37:37.171 - Resolving type for handle ctcell842btype
+[TRACE] 2024-09-21 23:37:37.184 - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-09-21 23:37:37.197 - Resolving type for handle cthyperlinks6416type
+[TRACE] 2024-09-21 23:37:37.201 - Resolving type for handle cthyperlink0c85type
+[TRACE] 2024-09-21 23:37:37.209 - Resolving type for handle stxstringf179type
+[TRACE] 2024-09-21 23:37:37.215 - Resolving type for handle stcelltypebf95type
+[TRACE] 2024-09-21 23:37:37.239 - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2024-09-21 23:37:37.244 - Resolving type for handle stnumfmtid76fbtype
+[INFO ] 2024-09-21 23:37:37.264 - ======================================================
+[INFO ] 2024-09-21 23:37:37.264 - Initializing the browser.
+[INFO ] 2024-09-21 23:37:39.012 - Browser initializing completed.
+[INFO ] 2024-09-21 23:37:39.012 - Opening the URL
+[INFO ] 2024-09-21 23:37:42.814 - Test case alreadyExistCustomer execution started.
+[INFO ] 2024-09-21 23:37:44.947 - Test case success with name alreadyExistCustomer
+[INFO ] 2024-09-21 23:37:45.434 - Browser closed.
+[INFO ] 2024-09-21 23:37:45.434 - ====================================================
+[DEBUG] 2024-09-21 23:37:45.448 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-21 23:37:45.450 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-21 23:37:45.452 - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-09-21 23:37:45.475 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-09-21 23:37:45.491 - ======================================================
+[INFO ] 2024-09-21 23:37:45.491 - Initializing the browser.
+[INFO ] 2024-09-21 23:37:46.524 - Browser initializing completed.
+[INFO ] 2024-09-21 23:37:46.524 - Opening the URL
+[INFO ] 2024-09-21 23:37:50.593 - Test case registrationSuccessfull execution started.
+[INFO ] 2024-09-21 23:37:52.125 - Test case success with name registrationSuccessfull
+[INFO ] 2024-09-21 23:37:52.503 - Browser closed.
+[INFO ] 2024-09-21 23:37:52.504 - ====================================================
+[INFO ] 2024-09-21 23:37:52.508 - ======================================================
+[INFO ] 2024-09-21 23:37:52.509 - Initializing the browser.
+[INFO ] 2024-09-21 23:37:53.456 - Browser initializing completed.
+[INFO ] 2024-09-21 23:37:53.456 - Opening the URL
+[INFO ] 2024-09-21 23:37:56.704 - Test case SuccessfulLogin execution started.
+[INFO ] 2024-09-21 23:37:58.878 - Test case success with name SuccessfulLogin
+[INFO ] 2024-09-21 23:37:59.312 - Browser closed.
+[INFO ] 2024-09-21 23:37:59.312 - ====================================================
+[INFO ] 2024-09-21 23:37:59.314 - ======================================================
+[INFO ] 2024-09-21 23:37:59.315 - Initializing the browser.
+[INFO ] 2024-09-21 23:38:00.395 - Browser initializing completed.
+[INFO ] 2024-09-21 23:38:00.395 - Opening the URL
+[INFO ] 2024-09-21 23:38:07.374 - Test case openSavingAccount execution started.
+[INFO ] 2024-09-21 23:38:09.312 - Test case success with name openSavingAccount
+[INFO ] 2024-09-21 23:38:09.708 - Browser closed.
+[INFO ] 2024-09-21 23:38:09.708 - ====================================================
