@@ -50,7 +50,7 @@
               <ul>
                 <li>
                   <a href="#" panel-name="test-xml-Suite" class="navigator-link ">
-                    <span>C:\Temp\Sunil\Sunil\Selenium\parabankautomation\testng.xml</span>
+                    <span>C:\Users\bhrx\git\parabanksolution\parabankautomation\testng.xml</span>
                   </a> <!-- navigator-link  -->
                 </li>
                 <li>
@@ -92,7 +92,7 @@
               <div class="suite-section-content">
                 <ul>
                   <li>
-                    <span class="method-stats">4 methods,   4 passed</span>
+                    <span class="method-stats">6 methods,   6 passed</span>
                   </li>
                   <li>
                     <span class="method-list-title passed">Passed methods</span>
@@ -109,6 +109,16 @@
                       <span>
                         <img src="passed.png" width="3%"/>
                         <a href="#" panel-name="suite-Suite" title="com.parabankautomationtest.RegisterPageTest" class="method navigator-link" hash-for-method="alreadyExistCustomer(Sunil, Gaudase, Pune, Pune, Maharashtra, 411012.0, 1.23456789E9, 123.0, sunilgaudse12, Sunil@1234, S...)">alreadyExistCustomer(Sunil, Gaudase, Pune, Pune, Maharashtra, 411012.0, 1.23456789E9, 123.0, sunilgaudse12, Sunil@1234, S...)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="com.parabankautomationtest.RequestLoanPageTest" class="method navigator-link" hash-for-method="loanApproved(100, 20)">loanApproved(100, 20)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="passed.png" width="3%"/>
+                        <a href="#" panel-name="suite-Suite" title="com.parabankautomationtest.RequestLoanPageTest" class="method navigator-link" hash-for-method="loanDenied(100000, 20)">loanDenied(100000, 20)</a> <!-- method navigator-link -->
                       </span>
                       <br/>
                       <span>
@@ -133,6 +143,30 @@
     <div class="wrapper">
       <div class="main-panel-root">
         <div panel-name="suite-Suite" class="panel Suite">
+          <div class="suite-Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.parabankautomationtest.RequestLoanPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="loanApproved(100, 20)">
+                  </a> <!-- loanApproved(100, 20) -->
+                  <span class="method-name">loanApproved</span>
+                  <span class="parameters">(100,20)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="loanDenied(100000, 20)">
+                  </a> <!-- loanDenied(100000, 20) -->
+                  <span class="method-name">loanDenied</span>
+                  <span class="parameters">(100000,20)</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Suite-class-passed -->
           <div class="suite-Suite-class-passed">
             <div class="main-panel-header rounded-window-top">
               <img src="passed.png"/>
@@ -190,7 +224,7 @@
         </div> <!-- panel Suite -->
         <div panel-name="test-xml-Suite" class="panel">
           <div class="main-panel-header rounded-window-top">
-            <span class="header-content">C:\Temp\Sunil\Sunil\Selenium\parabankautomation\testng.xml</span>
+            <span class="header-content">C:\Users\bhrx\git\parabanksolution\parabankautomation\testng.xml</span>
           </div> <!-- main-panel-header rounded-window-top -->
           <div class="main-panel-content rounded-window-bottom">
             <pre>
@@ -205,6 +239,7 @@
       &lt;class name=&quot;com.parabankautomationtest.RegisterPageTest&quot;/&gt;
       &lt;class name=&quot;com.parabankautomationtest.LoginPageTest&quot;/&gt;
       &lt;class name=&quot;com.parabankautomationtest.OpenAccountTest&quot;/&gt;
+      &lt;class name=&quot;com.parabankautomationtest.RequestLoanPageTest&quot;/&gt;
     &lt;/classes&gt;
   &lt;/test&gt; &lt;!-- Test --&gt;
 &lt;/suite&gt; &lt;!-- Suite --&gt;
@@ -218,7 +253,7 @@
           <div class="main-panel-content rounded-window-bottom">
             <ul>
               <li>
-                <span class="test-name">Test (3 classes)</span>
+                <span class="test-name">Test (4 classes)</span>
               </li>
             </ul>
           </div> <!-- main-panel-content rounded-window-bottom -->
@@ -244,28 +279,36 @@ data.addColumn('number', 'Number');
 data.addColumn('string', 'Method');
 data.addColumn('string', 'Class');
 data.addColumn('number', 'Time (ms)');
-data.addRows(4);
+data.addRows(6);
 data.setCell(0, 0, 0)
-data.setCell(0, 1, 'SuccessfulLogin')
-data.setCell(0, 2, 'com.parabankautomationtest.LoginPageTest')
-data.setCell(0, 3, 2176);
+data.setCell(0, 1, 'openSavingAccount')
+data.setCell(0, 2, 'com.parabankautomationtest.OpenAccountTest')
+data.setCell(0, 3, 1693);
 data.setCell(1, 0, 1)
-data.setCell(1, 1, 'alreadyExistCustomer')
-data.setCell(1, 2, 'com.parabankautomationtest.RegisterPageTest')
-data.setCell(1, 3, 2161);
+data.setCell(1, 1, 'loanDenied')
+data.setCell(1, 2, 'com.parabankautomationtest.RequestLoanPageTest')
+data.setCell(1, 3, 1691);
 data.setCell(2, 0, 2)
-data.setCell(2, 1, 'openSavingAccount')
-data.setCell(2, 2, 'com.parabankautomationtest.OpenAccountTest')
-data.setCell(2, 3, 1941);
+data.setCell(2, 1, 'loanApproved')
+data.setCell(2, 2, 'com.parabankautomationtest.RequestLoanPageTest')
+data.setCell(2, 3, 1626);
 data.setCell(3, 0, 3)
-data.setCell(3, 1, 'registrationSuccessfull')
+data.setCell(3, 1, 'alreadyExistCustomer')
 data.setCell(3, 2, 'com.parabankautomationtest.RegisterPageTest')
-data.setCell(3, 3, 1534);
+data.setCell(3, 3, 1148);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'registrationSuccessfull')
+data.setCell(4, 2, 'com.parabankautomationtest.RegisterPageTest')
+data.setCell(4, 3, 1114);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'SuccessfulLogin')
+data.setCell(5, 2, 'com.parabankautomationtest.LoginPageTest')
+data.setCell(5, 3, 983);
 window.suiteTableData['Suite']= { tableData: data, tableDiv: 'times-div-Suite'}
 return data;
 }
               </script>
-              <span class="suite-total-time">Total running time: 7 seconds</span>
+              <span class="suite-total-time">Total running time: 8 seconds</span>
               <div id="times-div-Suite">
               </div> <!-- times-div-Suite -->
             </div> <!-- times-div -->
@@ -298,95 +341,136 @@ return data;
               </div> <!-- configuration-suite before -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
-              <div class="chronological-class-name">com.parabankautomationtest.RegisterPageTest</div> <!-- chronological-class-name -->
-              <div class="configuration-suite before">
-                <span class="method-name">reportInitialisation</span>
-                <span class="method-start">270 ms</span>
-              </div> <!-- configuration-suite before -->
-            </div> <!-- chronological-class -->
-            <div class="chronological-class">
               <div class="chronological-class-name">com.parabankautomationtest.OpenAccountTest</div> <!-- chronological-class-name -->
               <div class="configuration-suite before">
                 <span class="method-name">reportInitialisation</span>
-                <span class="method-start">270 ms</span>
+                <span class="method-start">157 ms</span>
+              </div> <!-- configuration-suite before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.parabankautomationtest.RegisterPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">reportInitialisation</span>
+                <span class="method-start">157 ms</span>
+              </div> <!-- configuration-suite before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.parabankautomationtest.RequestLoanPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">reportInitialisation</span>
+                <span class="method-start">157 ms</span>
               </div> <!-- configuration-suite before -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.parabankautomationtest.RegisterPageTest</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">setup</span>
-                <span class="method-start">1645 ms</span>
+                <span class="method-start">765 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">alreadyExistCustomer(Sunil, Gaudase, Pune, Pune, Maharashtra, 411012.0, 1.23456789E9, 123.0, sunilgaudse12, Sunil@1234, S...)</span>
-                <span class="method-start">7157 ms</span>
+                <span class="method-start">5565 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">9338 ms</span>
+                <span class="method-start">6722 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method before">
                 <span class="method-name">setup</span>
-                <span class="method-start">9875 ms</span>
+                <span class="method-start">7101 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">registrationSuccessfull(Sunil, Gaudase, Pune, Pune, Maharashtra, 411012.0, 1.23456789E9, 123.0, sunilgaudse12, Sunil@1234, S...)</span>
-                <span class="method-start">14974 ms</span>
+                <span class="method-start">11269 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">16513 ms</span>
+                <span class="method-start">12388 ms</span>
               </div> <!-- configuration-method after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.parabankautomationtest.LoginPageTest</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">setup</span>
-                <span class="method-start">16892 ms</span>
+                <span class="method-start">12686 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">SuccessfulLogin</span>
-                <span class="method-start">21085 ms</span>
+                <span class="method-start">16941 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">23265 ms</span>
+                <span class="method-start">17925 ms</span>
               </div> <!-- configuration-method after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.parabankautomationtest.OpenAccountTest</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">setup</span>
-                <span class="method-start">23698 ms</span>
+                <span class="method-start">18214 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">openSavingAccount</span>
-                <span class="method-start">31755 ms</span>
+                <span class="method-start">22682 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">tearDown</span>
-                <span class="method-start">33699 ms</span>
+                <span class="method-start">24376 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.parabankautomationtest.RequestLoanPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">24725 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">loanApproved(100, 20)</span>
+                <span class="method-start">29229 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">30856 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">31183 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">loanDenied(100000, 20)</span>
+                <span class="method-start">34836 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">teardown</span>
+                <span class="method-start">36529 ms</span>
               </div> <!-- configuration-method after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.parabankautomationtest.LoginPageTest</div> <!-- chronological-class-name -->
               <div class="configuration-suite after">
                 <span class="method-name">closeReport</span>
-                <span class="method-start">34132 ms</span>
+                <span class="method-start">36872 ms</span>
               </div> <!-- configuration-suite after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.parabankautomationtest.OpenAccountTest</div> <!-- chronological-class-name -->
               <div class="configuration-suite after">
                 <span class="method-name">closeReport</span>
-                <span class="method-start">34455 ms</span>
+                <span class="method-start">37093 ms</span>
               </div> <!-- configuration-suite after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">com.parabankautomationtest.RegisterPageTest</div> <!-- chronological-class-name -->
               <div class="configuration-suite after">
                 <span class="method-name">closeReport</span>
-                <span class="method-start">34466 ms</span>
+                <span class="method-start">37103 ms</span>
+              </div> <!-- configuration-suite after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.parabankautomationtest.RequestLoanPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-suite after">
+                <span class="method-name">closeReport</span>
+                <span class="method-start">37113 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->

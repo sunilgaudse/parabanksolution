@@ -9,6 +9,8 @@
       <class name="com.parabankautomationtest.RegisterPageTest"/>
 	  <class name="com.parabankautomationtest.LoginPageTest"/>
 	  <class name="com.parabankautomationtest.OpenAccountTest"/>
+	  <class name="com.parabankautomationtest.RequestLoanPageTest"/>
+	  
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

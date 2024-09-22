@@ -1,43 +1,101 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-21T23:37:35 IST" name="Suite" finished-at="2024-09-21T23:38:09 IST" duration-ms="33820">
+  <suite started-at="2024-09-22T17:55:18 IST" name="Suite" finished-at="2024-09-22T17:55:54 IST" duration-ms="36692">
     <groups>
     </groups>
-    <test started-at="2024-09-21T23:37:35 IST" name="Test" finished-at="2024-09-21T23:38:09 IST" duration-ms="33820">
-      <class name="com.parabankautomationtest.OpenAccountTest">
-        <test-method is-config="true" signature="reportInitialisation()[pri:0, instance:com.parabankautomationtest.OpenAccountTest@7651218e]" started-at="2024-09-21T23:37:35 IST" name="reportInitialisation" finished-at="2024-09-21T23:37:35 IST" duration-ms="0" status="PASS">
+    <test started-at="2024-09-22T17:55:18 IST" name="Test" finished-at="2024-09-22T17:55:54 IST" duration-ms="36692">
+      <class name="com.parabankautomationtest.RequestLoanPageTest">
+        <test-method is-config="true" signature="reportInitialisation()[pri:0, instance:com.parabankautomationtest.RequestLoanPageTest@64beebb7]" started-at="2024-09-22T17:55:18 IST" name="reportInitialisation" finished-at="2024-09-22T17:55:18 IST" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportInitialisation -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.parabankautomationtest.OpenAccountTest@7651218e]" started-at="2024-09-21T23:37:59 IST" name="setup" finished-at="2024-09-21T23:38:07 IST" duration-ms="8057" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.parabankautomationtest.RequestLoanPageTest@64beebb7]" started-at="2024-09-22T17:55:42 IST" name="setup" finished-at="2024-09-22T17:55:47 IST" duration-ms="4503" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="openSavingAccount()[pri:0, instance:com.parabankautomationtest.OpenAccountTest@7651218e]" started-at="2024-09-21T23:38:07 IST" name="openSavingAccount" finished-at="2024-09-21T23:38:09 IST" duration-ms="1941" status="PASS">
+        <test-method signature="loanApproved(java.lang.String,java.lang.String)[pri:0, instance:com.parabankautomationtest.RequestLoanPageTest@64beebb7]" started-at="2024-09-22T17:55:47 IST" name="loanApproved" data-provider="loanDetails1" finished-at="2024-09-22T17:55:48 IST" duration-ms="1626" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[100]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanApproved -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.parabankautomationtest.RequestLoanPageTest@64beebb7]" started-at="2024-09-22T17:55:48 IST" name="teardown" finished-at="2024-09-22T17:55:49 IST" duration-ms="327" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.parabankautomationtest.RequestLoanPageTest@64beebb7]" started-at="2024-09-22T17:55:49 IST" name="setup" finished-at="2024-09-22T17:55:52 IST" duration-ms="3653" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loanDenied(java.lang.String,java.lang.String)[pri:0, instance:com.parabankautomationtest.RequestLoanPageTest@64beebb7]" started-at="2024-09-22T17:55:52 IST" name="loanDenied" data-provider="loanDetails2" finished-at="2024-09-22T17:55:54 IST" duration-ms="1691" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[100000]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loanDenied -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.parabankautomationtest.RequestLoanPageTest@64beebb7]" started-at="2024-09-22T17:55:54 IST" name="teardown" finished-at="2024-09-22T17:55:54 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="closeReport()[pri:0, instance:com.parabankautomationtest.RequestLoanPageTest@64beebb7]" started-at="2024-09-22T17:55:55 IST" name="closeReport" finished-at="2024-09-22T17:55:55 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeReport -->
+      </class> <!-- com.parabankautomationtest.RequestLoanPageTest -->
+      <class name="com.parabankautomationtest.OpenAccountTest">
+        <test-method is-config="true" signature="reportInitialisation()[pri:0, instance:com.parabankautomationtest.OpenAccountTest@3a320ade]" started-at="2024-09-22T17:55:18 IST" name="reportInitialisation" finished-at="2024-09-22T17:55:18 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportInitialisation -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.parabankautomationtest.OpenAccountTest@3a320ade]" started-at="2024-09-22T17:55:36 IST" name="setup" finished-at="2024-09-22T17:55:40 IST" duration-ms="4468" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="openSavingAccount()[pri:0, instance:com.parabankautomationtest.OpenAccountTest@3a320ade]" started-at="2024-09-22T17:55:40 IST" name="openSavingAccount" finished-at="2024-09-22T17:55:42 IST" duration-ms="1693" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openSavingAccount -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabankautomationtest.OpenAccountTest@7651218e]" started-at="2024-09-21T23:38:09 IST" name="tearDown" finished-at="2024-09-21T23:38:09 IST" duration-ms="393" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabankautomationtest.OpenAccountTest@3a320ade]" started-at="2024-09-22T17:55:42 IST" name="tearDown" finished-at="2024-09-22T17:55:42 IST" duration-ms="348" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="closeReport()[pri:0, instance:com.parabankautomationtest.OpenAccountTest@7651218e]" started-at="2024-09-21T23:38:10 IST" name="closeReport" finished-at="2024-09-21T23:38:10 IST" duration-ms="11" status="PASS">
+        <test-method is-config="true" signature="closeReport()[pri:0, instance:com.parabankautomationtest.OpenAccountTest@3a320ade]" started-at="2024-09-22T17:55:55 IST" name="closeReport" finished-at="2024-09-22T17:55:55 IST" duration-ms="9" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeReport -->
       </class> <!-- com.parabankautomationtest.OpenAccountTest -->
       <class name="com.parabankautomationtest.RegisterPageTest">
-        <test-method is-config="true" signature="reportInitialisation()[pri:0, instance:com.parabankautomationtest.RegisterPageTest@3efe7086]" started-at="2024-09-21T23:37:35 IST" name="reportInitialisation" finished-at="2024-09-21T23:37:35 IST" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="reportInitialisation()[pri:0, instance:com.parabankautomationtest.RegisterPageTest@68d6972f]" started-at="2024-09-22T17:55:18 IST" name="reportInitialisation" finished-at="2024-09-22T17:55:18 IST" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportInitialisation -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.parabankautomationtest.RegisterPageTest@3efe7086]" started-at="2024-09-21T23:37:37 IST" name="setup" finished-at="2024-09-21T23:37:42 IST" duration-ms="5511" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.parabankautomationtest.RegisterPageTest@68d6972f]" started-at="2024-09-22T17:55:18 IST" name="setup" finished-at="2024-09-22T17:55:23 IST" duration-ms="4798" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="alreadyExistCustomer(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.parabankautomationtest.RegisterPageTest@3efe7086]" started-at="2024-09-21T23:37:42 IST" name="alreadyExistCustomer" data-provider="registrationDetailsData" finished-at="2024-09-21T23:37:44 IST" duration-ms="2161" status="PASS">
+        <test-method signature="alreadyExistCustomer(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.parabankautomationtest.RegisterPageTest@68d6972f]" started-at="2024-09-22T17:55:23 IST" name="alreadyExistCustomer" data-provider="registrationDetailsData" finished-at="2024-09-22T17:55:24 IST" duration-ms="1148" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -98,15 +156,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- alreadyExistCustomer -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabankautomationtest.RegisterPageTest@3efe7086]" started-at="2024-09-21T23:37:44 IST" name="tearDown" finished-at="2024-09-21T23:37:45 IST" duration-ms="480" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabankautomationtest.RegisterPageTest@68d6972f]" started-at="2024-09-22T17:55:24 IST" name="tearDown" finished-at="2024-09-22T17:55:25 IST" duration-ms="345" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.parabankautomationtest.RegisterPageTest@3efe7086]" started-at="2024-09-21T23:37:45 IST" name="setup" finished-at="2024-09-21T23:37:50 IST" duration-ms="5099" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.parabankautomationtest.RegisterPageTest@68d6972f]" started-at="2024-09-22T17:55:25 IST" name="setup" finished-at="2024-09-22T17:55:29 IST" duration-ms="4168" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="registrationSuccessfull(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.parabankautomationtest.RegisterPageTest@3efe7086]" started-at="2024-09-21T23:37:50 IST" name="registrationSuccessfull" data-provider="registrationDetailsData" finished-at="2024-09-21T23:37:52 IST" duration-ms="1534" status="PASS">
+        <test-method signature="registrationSuccessfull(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:com.parabankautomationtest.RegisterPageTest@68d6972f]" started-at="2024-09-22T17:55:29 IST" name="registrationSuccessfull" data-provider="registrationDetailsData" finished-at="2024-09-22T17:55:30 IST" duration-ms="1114" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -167,33 +225,33 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- registrationSuccessfull -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabankautomationtest.RegisterPageTest@3efe7086]" started-at="2024-09-21T23:37:52 IST" name="tearDown" finished-at="2024-09-21T23:37:52 IST" duration-ms="375" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabankautomationtest.RegisterPageTest@68d6972f]" started-at="2024-09-22T17:55:30 IST" name="tearDown" finished-at="2024-09-22T17:55:30 IST" duration-ms="289" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="closeReport()[pri:0, instance:com.parabankautomationtest.RegisterPageTest@3efe7086]" started-at="2024-09-21T23:38:10 IST" name="closeReport" finished-at="2024-09-21T23:38:10 IST" duration-ms="8" status="PASS">
+        <test-method is-config="true" signature="closeReport()[pri:0, instance:com.parabankautomationtest.RegisterPageTest@68d6972f]" started-at="2024-09-22T17:55:55 IST" name="closeReport" finished-at="2024-09-22T17:55:55 IST" duration-ms="10" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeReport -->
       </class> <!-- com.parabankautomationtest.RegisterPageTest -->
       <class name="com.parabankautomationtest.LoginPageTest">
-        <test-method is-config="true" signature="reportInitialisation()[pri:0, instance:com.parabankautomationtest.LoginPageTest@45be7cd5]" started-at="2024-09-21T23:37:35 IST" name="reportInitialisation" finished-at="2024-09-21T23:37:35 IST" duration-ms="268" status="PASS">
+        <test-method is-config="true" signature="reportInitialisation()[pri:0, instance:com.parabankautomationtest.LoginPageTest@24faea88]" started-at="2024-09-22T17:55:18 IST" name="reportInitialisation" finished-at="2024-09-22T17:55:18 IST" duration-ms="156" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportInitialisation -->
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.parabankautomationtest.LoginPageTest@45be7cd5]" started-at="2024-09-21T23:37:52 IST" name="setup" finished-at="2024-09-21T23:37:56 IST" duration-ms="4193" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.parabankautomationtest.LoginPageTest@24faea88]" started-at="2024-09-22T17:55:30 IST" name="setup" finished-at="2024-09-22T17:55:35 IST" duration-ms="4255" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="SuccessfulLogin()[pri:0, instance:com.parabankautomationtest.LoginPageTest@45be7cd5]" started-at="2024-09-21T23:37:56 IST" name="SuccessfulLogin" finished-at="2024-09-21T23:37:58 IST" duration-ms="2176" status="PASS">
+        <test-method signature="SuccessfulLogin()[pri:0, instance:com.parabankautomationtest.LoginPageTest@24faea88]" started-at="2024-09-22T17:55:35 IST" name="SuccessfulLogin" finished-at="2024-09-22T17:55:36 IST" duration-ms="983" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SuccessfulLogin -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabankautomationtest.LoginPageTest@45be7cd5]" started-at="2024-09-21T23:37:58 IST" name="tearDown" finished-at="2024-09-21T23:37:59 IST" duration-ms="431" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.parabankautomationtest.LoginPageTest@24faea88]" started-at="2024-09-22T17:55:36 IST" name="tearDown" finished-at="2024-09-22T17:55:36 IST" duration-ms="288" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method is-config="true" signature="closeReport()[pri:0, instance:com.parabankautomationtest.LoginPageTest@45be7cd5]" started-at="2024-09-21T23:38:09 IST" name="closeReport" finished-at="2024-09-21T23:38:10 IST" duration-ms="323" status="PASS">
+        <test-method is-config="true" signature="closeReport()[pri:0, instance:com.parabankautomationtest.LoginPageTest@24faea88]" started-at="2024-09-22T17:55:54 IST" name="closeReport" finished-at="2024-09-22T17:55:55 IST" duration-ms="220" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closeReport -->

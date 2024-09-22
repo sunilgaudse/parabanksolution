@@ -3,34 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.parabankautomationtest.OpenAccountTest">
+      <class name="com.parabankautomationtest.RequestLoanPageTest">
         <methods>
-          <include name="openSavingAccount"/>
+          <include name="loanApproved" invocation-numbers="0"/>
           <include name="setup"/>
-          <include name="tearDown"/>
-          <include name="closeReport"/>
           <include name="reportInitialisation"/>
+          <include name="loanDenied" invocation-numbers="0"/>
         </methods>
-      </class> <!-- com.parabankautomationtest.OpenAccountTest -->
-      <class name="com.parabankautomationtest.LoginPageTest">
-        <methods>
-          <include name="tearDown"/>
-          <include name="closeReport"/>
-          <include name="reportInitialisation"/>
-          <include name="setup"/>
-          <include name="SuccessfulLogin"/>
-        </methods>
-      </class> <!-- com.parabankautomationtest.LoginPageTest -->
-      <class name="com.parabankautomationtest.RegisterPageTest">
-        <methods>
-          <include name="reportInitialisation"/>
-          <include name="tearDown"/>
-          <include name="setup"/>
-          <include name="closeReport"/>
-          <include name="registrationSuccessfull"/>
-          <include name="alreadyExistCustomer" invocation-numbers="0"/>
-        </methods>
-      </class> <!-- com.parabankautomationtest.RegisterPageTest -->
+      </class> <!-- com.parabankautomationtest.RequestLoanPageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
