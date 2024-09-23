@@ -3,7 +3,8 @@
 <suite name="Suite">
 <listeners>
 		<listener class-name="com.listener.MyListener"></listener>
-	</listeners>
+		<listener class-name="com.utilities.RetryListner"></listener>
+</listeners>
   <test thread-count="5" name="Test">
     <classes>
       <class name="com.parabankautomationtest.RegisterPageTest"/>

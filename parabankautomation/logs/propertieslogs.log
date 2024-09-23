@@ -1693,3 +1693,721 @@ Session ID: bc02eb63e1bbfb7f7f02b8ee5c4fb26a
 [INFO ] 2024-09-23 22:22:01.691 - Test case success with name loanDenied
 [INFO ] 2024-09-23 22:22:02.068 - Browser closed.
 [INFO ] 2024-09-23 22:22:02.068 - ====================================================
+[DEBUG] 2024-09-23 22:26:25.494 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-23 22:26:25.502 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-23 22:26:25.504 - Parsing relationship: /_rels/.rels
+[TRACE] 2024-09-23 22:26:25.734 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 22:26:25.736 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 22:26:25.737 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 22:26:25.737 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 22:26:25.738 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 22:26:25.739 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 22:26:25.752 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 22:26:25.753 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 22:26:25.760 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 22:26:25.761 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 22:26:25.762 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 22:26:25.763 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 22:26:25.764 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 22:26:25.765 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 22:26:25.829 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 22:26:25.830 - Resolving type for handle themefd26doctype
+[TRACE] 2024-09-23 22:26:25.909 - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-09-23 22:26:25.915 - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-09-23 22:26:25.922 - Resolving type for handle ctfonts6623type
+[TRACE] 2024-09-23 22:26:25.925 - Resolving type for handle ctfont14d8type
+[TRACE] 2024-09-23 22:26:25.932 - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-09-23 22:26:25.934 - Resolving type for handle ctfill550ctype
+[TRACE] 2024-09-23 22:26:25.936 - Resolving type for handle ctborders0d66type
+[TRACE] 2024-09-23 22:26:25.941 - Resolving type for handle ctborderf935type
+[TRACE] 2024-09-23 22:26:25.946 - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-09-23 22:26:25.949 - Resolving type for handle ctxf97f7type
+[TRACE] 2024-09-23 22:26:25.952 - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-09-23 22:26:25.955 - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-09-23 22:26:25.958 - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-09-23 22:26:25.963 - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-09-23 22:26:25.968 - Resolving type for handle ctsst44f3type
+[TRACE] 2024-09-23 22:26:25.980 - Resolving type for handle ctrsta472type
+[DEBUG] 2024-09-23 22:26:26.022 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-09-23 22:26:26.024 - Resolving type for handle workbookec17doctype
+[TRACE] 2024-09-23 22:26:26.031 - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-09-23 22:26:26.043 - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-09-23 22:26:26.046 - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-09-23 22:26:26.050 - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-09-23 22:26:26.052 - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-09-23 22:26:26.061 - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-09-23 22:26:26.075 - Resolving type for handle ctcols627ctype
+[TRACE] 2024-09-23 22:26:26.082 - Resolving type for handle ctcola95ftype
+[TRACE] 2024-09-23 22:26:26.110 - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-09-23 22:26:26.118 - Resolving type for handle ctrowdd39type
+[TRACE] 2024-09-23 22:26:26.127 - Resolving type for handle ctcell842btype
+[TRACE] 2024-09-23 22:26:26.138 - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-09-23 22:26:26.147 - Resolving type for handle cthyperlinks6416type
+[TRACE] 2024-09-23 22:26:26.151 - Resolving type for handle cthyperlink0c85type
+[TRACE] 2024-09-23 22:26:26.161 - Resolving type for handle stxstringf179type
+[TRACE] 2024-09-23 22:26:26.167 - Resolving type for handle stcelltypebf95type
+[TRACE] 2024-09-23 22:26:26.193 - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2024-09-23 22:26:26.198 - Resolving type for handle stnumfmtid76fbtype
+[INFO ] 2024-09-23 22:26:26.221 - ======================================================
+[INFO ] 2024-09-23 22:26:26.221 - Initializing the browser.
+[INFO ] 2024-09-23 22:26:27.896 - Browser initializing completed.
+[INFO ] 2024-09-23 22:26:27.897 - Opening the URL
+[INFO ] 2024-09-23 22:26:31.837 - Test case alreadyExistCustomer execution started.
+[INFO ] 2024-09-23 22:26:35.239 - Test case success with name alreadyExistCustomer
+[INFO ] 2024-09-23 22:26:35.710 - Browser closed.
+[INFO ] 2024-09-23 22:26:35.710 - ====================================================
+[DEBUG] 2024-09-23 22:26:35.732 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-23 22:26:35.736 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-23 22:26:35.739 - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-09-23 22:26:35.780 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-09-23 22:26:35.812 - ======================================================
+[INFO ] 2024-09-23 22:26:35.812 - Initializing the browser.
+[INFO ] 2024-09-23 22:26:36.759 - Browser initializing completed.
+[INFO ] 2024-09-23 22:26:36.761 - Opening the URL
+[INFO ] 2024-09-23 22:26:40.503 - Test case registrationSuccessfull execution started.
+[INFO ] 2024-09-23 22:26:43.442 - Test case success with name registrationSuccessfull
+[INFO ] 2024-09-23 22:26:43.856 - Browser closed.
+[INFO ] 2024-09-23 22:26:43.856 - ====================================================
+[INFO ] 2024-09-23 22:26:43.863 - ======================================================
+[INFO ] 2024-09-23 22:26:43.863 - Initializing the browser.
+[INFO ] 2024-09-23 22:26:44.964 - Browser initializing completed.
+[INFO ] 2024-09-23 22:26:44.965 - Opening the URL
+[INFO ] 2024-09-23 22:26:48.271 - Test case SuccessfulLogin execution started.
+[ERROR] 2024-09-23 22:27:50.856 - Test case failed with name SuccessfulLogin
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//b[text()='Welcome']"}
+  (Session info: chrome=128.0.6613.138)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b6578de29f9ce4145ac71bb7ff0a856e, findElement {value=//b[text()='Welcome'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.86 (3045ed680fda..., userDataDir: C:\Users\bhrx\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50835}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50835/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b6578de29f9ce4145ac71bb7ff0a856e
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.24.0.jar:?]
+	at com.parabankautomationtest.LoginPageTest.SuccessfulLogin(LoginPageTest.java:34) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestRunner.run(TestRunner.java:614) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+[INFO ] 2024-09-23 22:27:51.838 - ====================================================
+[INFO ] 2024-09-23 22:27:52.220 - Browser closed.
+[INFO ] 2024-09-23 22:27:52.220 - ====================================================
+[INFO ] 2024-09-23 22:27:52.224 - ======================================================
+[INFO ] 2024-09-23 22:27:52.224 - Initializing the browser.
+[INFO ] 2024-09-23 22:27:53.328 - Browser initializing completed.
+[INFO ] 2024-09-23 22:27:53.329 - Opening the URL
+[INFO ] 2024-09-23 22:27:57.726 - Test case openSavingAccount execution started.
+[ERROR] 2024-09-23 22:28:57.822 - Test case failed with name openSavingAccount
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Open New Account']"}
+  (Session info: chrome=128.0.6613.138)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [86f42292c13d7b48a97eb8e9cf248cd1, findElement {value=//a[text()='Open New Account'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.86 (3045ed680fda..., userDataDir: C:\Users\bhrx\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50863}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50863/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 86f42292c13d7b48a97eb8e9cf248cd1
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.24.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.24.0.jar:?]
+	at jdk.proxy2.$Proxy32.click(Unknown Source) ~[?:?]
+	at com.pages.OpenAccount.openAccountMethod(OpenAccount.java:39) ~[classes/:?]
+	at com.parabankautomationtest.OpenAccountTest.openSavingAccount(OpenAccountTest.java:44) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestRunner.run(TestRunner.java:614) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+[INFO ] 2024-09-23 22:28:58.203 - ====================================================
+[INFO ] 2024-09-23 22:28:58.436 - Browser closed.
+[INFO ] 2024-09-23 22:28:58.437 - ====================================================
+[INFO ] 2024-09-23 22:28:58.441 - ======================================================
+[INFO ] 2024-09-23 22:28:58.441 - Initializing the browser.
+[INFO ] 2024-09-23 22:28:59.284 - Browser initializing completed.
+[INFO ] 2024-09-23 22:28:59.284 - Opening the URL
+[INFO ] 2024-09-23 22:29:02.867 - Test case loanApproved execution started.
+[ERROR] 2024-09-23 22:30:02.900 - Test case failed with name loanApproved
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Request Loan']"}
+  (Session info: chrome=128.0.6613.138)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [5f68b8fa1b3cad5e4880fe193637a9dd, findElement {value=//a[text()='Request Loan'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.86 (3045ed680fda..., userDataDir: C:\Users\bhrx\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50891}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50891/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5f68b8fa1b3cad5e4880fe193637a9dd
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.24.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.24.0.jar:?]
+	at jdk.proxy2.$Proxy32.click(Unknown Source) ~[?:?]
+	at com.pages.RequestLoanPage.requestLoanMethod(RequestLoanPage.java:25) ~[classes/:?]
+	at com.parabankautomationtest.RequestLoanPageTest.loanApproved(RequestLoanPageTest.java:43) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestRunner.run(TestRunner.java:614) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+[INFO ] 2024-09-23 22:30:03.298 - ====================================================
+[INFO ] 2024-09-23 22:30:03.523 - Browser closed.
+[INFO ] 2024-09-23 22:30:03.525 - ====================================================
+[INFO ] 2024-09-23 22:30:03.537 - ======================================================
+[INFO ] 2024-09-23 22:30:03.539 - Initializing the browser.
+[INFO ] 2024-09-23 22:30:04.370 - Browser initializing completed.
+[INFO ] 2024-09-23 22:30:04.371 - Opening the URL
+[INFO ] 2024-09-23 22:30:08.659 - Test case loanDenied execution started.
+[ERROR] 2024-09-23 22:31:08.690 - Test case failed with name loanDenied
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Request Loan']"}
+  (Session info: chrome=128.0.6613.138)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ad5885d62625af75641baae8d46721d1, findElement {value=//a[text()='Request Loan'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.86 (3045ed680fda..., userDataDir: C:\Users\bhrx\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50918}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:50918/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ad5885d62625af75641baae8d46721d1
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.24.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.24.0.jar:?]
+	at jdk.proxy2.$Proxy32.click(Unknown Source) ~[?:?]
+	at com.pages.RequestLoanPage.requestLoanMethod(RequestLoanPage.java:25) ~[classes/:?]
+	at com.parabankautomationtest.RequestLoanPageTest.loanDenied(RequestLoanPageTest.java:54) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestRunner.run(TestRunner.java:614) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+[INFO ] 2024-09-23 22:31:09.332 - ====================================================
+[INFO ] 2024-09-23 22:31:09.612 - Browser closed.
+[INFO ] 2024-09-23 22:31:09.612 - ====================================================
+[DEBUG] 2024-09-23 22:33:31.324 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-23 22:33:31.328 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-23 22:33:31.330 - Parsing relationship: /_rels/.rels
+[TRACE] 2024-09-23 22:33:31.460 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 22:33:31.462 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 22:33:31.463 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 22:33:31.463 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 22:33:31.464 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 22:33:31.464 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 22:33:31.474 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 22:33:31.475 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 22:33:31.479 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 22:33:31.480 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 22:33:31.481 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 22:33:31.482 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 22:33:31.483 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 22:33:31.483 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 22:33:31.528 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 22:33:31.530 - Resolving type for handle themefd26doctype
+[TRACE] 2024-09-23 22:33:31.578 - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-09-23 22:33:31.583 - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-09-23 22:33:31.587 - Resolving type for handle ctfonts6623type
+[TRACE] 2024-09-23 22:33:31.590 - Resolving type for handle ctfont14d8type
+[TRACE] 2024-09-23 22:33:31.596 - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-09-23 22:33:31.597 - Resolving type for handle ctfill550ctype
+[TRACE] 2024-09-23 22:33:31.599 - Resolving type for handle ctborders0d66type
+[TRACE] 2024-09-23 22:33:31.601 - Resolving type for handle ctborderf935type
+[TRACE] 2024-09-23 22:33:31.603 - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-09-23 22:33:31.605 - Resolving type for handle ctxf97f7type
+[TRACE] 2024-09-23 22:33:31.608 - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-09-23 22:33:31.609 - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-09-23 22:33:31.612 - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-09-23 22:33:31.615 - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-09-23 22:33:31.619 - Resolving type for handle ctsst44f3type
+[TRACE] 2024-09-23 22:33:31.626 - Resolving type for handle ctrsta472type
+[DEBUG] 2024-09-23 22:33:31.644 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-09-23 22:33:31.647 - Resolving type for handle workbookec17doctype
+[TRACE] 2024-09-23 22:33:31.652 - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-09-23 22:33:31.656 - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-09-23 22:33:31.659 - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-09-23 22:33:31.663 - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-09-23 22:33:31.665 - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-09-23 22:33:31.670 - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-09-23 22:33:31.681 - Resolving type for handle ctcols627ctype
+[TRACE] 2024-09-23 22:33:31.686 - Resolving type for handle ctcola95ftype
+[TRACE] 2024-09-23 22:33:31.701 - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-09-23 22:33:31.703 - Resolving type for handle ctrowdd39type
+[TRACE] 2024-09-23 22:33:31.710 - Resolving type for handle ctcell842btype
+[TRACE] 2024-09-23 22:33:31.717 - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-09-23 22:33:31.722 - Resolving type for handle cthyperlinks6416type
+[TRACE] 2024-09-23 22:33:31.724 - Resolving type for handle cthyperlink0c85type
+[TRACE] 2024-09-23 22:33:31.732 - Resolving type for handle stxstringf179type
+[TRACE] 2024-09-23 22:33:31.735 - Resolving type for handle stcelltypebf95type
+[TRACE] 2024-09-23 22:33:31.748 - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2024-09-23 22:33:31.754 - Resolving type for handle stnumfmtid76fbtype
+[INFO ] 2024-09-23 22:33:31.768 - ======================================================
+[INFO ] 2024-09-23 22:33:31.768 - Initializing the browser.
+[INFO ] 2024-09-23 22:33:32.941 - Browser initializing completed.
+[INFO ] 2024-09-23 22:33:32.943 - Opening the URL
+[INFO ] 2024-09-23 22:33:36.857 - Test case alreadyExistCustomer execution started.
+[INFO ] 2024-09-23 22:33:37.923 - Test case success with name alreadyExistCustomer
+[INFO ] 2024-09-23 22:33:38.212 - Browser closed.
+[INFO ] 2024-09-23 22:33:38.213 - ====================================================
+[DEBUG] 2024-09-23 22:33:38.237 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-23 22:33:38.240 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-23 22:33:38.242 - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-09-23 22:33:38.261 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-09-23 22:33:38.272 - ======================================================
+[INFO ] 2024-09-23 22:33:38.272 - Initializing the browser.
+[INFO ] 2024-09-23 22:33:39.007 - Browser initializing completed.
+[INFO ] 2024-09-23 22:33:39.007 - Opening the URL
+[INFO ] 2024-09-23 22:33:42.663 - Test case registrationSuccessfull execution started.
+[ERROR] 2024-09-23 22:33:43.653 - Test case failed with name registrationSuccessfull
+java.lang.AssertionError: expected [If you have an account with us you can sign-up for free instant online access. You will have to provide some personal information.] but found [Your account was created successfully. You are now logged in.]
+	at org.testng.Assert.fail(Assert.java:111) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.Assert.failNotEquals(Assert.java:1578) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.Assert.assertEqualsImpl(Assert.java:150) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.Assert.assertEquals(Assert.java:132) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.Assert.assertEquals(Assert.java:656) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.Assert.assertEquals(Assert.java:666) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at com.parabankautomationtest.RegisterPageTest.registrationSuccessfull(RegisterPageTest.java:54) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestRunner.run(TestRunner.java:614) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+[INFO ] 2024-09-23 22:33:44.099 - ====================================================
+[INFO ] 2024-09-23 22:33:44.416 - Browser closed.
+[INFO ] 2024-09-23 22:33:44.416 - ====================================================
+[INFO ] 2024-09-23 22:33:44.424 - ======================================================
+[INFO ] 2024-09-23 22:33:44.424 - Initializing the browser.
+[INFO ] 2024-09-23 22:33:45.142 - Browser initializing completed.
+[INFO ] 2024-09-23 22:33:45.143 - Opening the URL
+[INFO ] 2024-09-23 22:33:47.808 - Test case SuccessfulLogin execution started.
+[INFO ] 2024-09-23 22:33:49.257 - Test case success with name SuccessfulLogin
+[INFO ] 2024-09-23 22:33:49.543 - Browser closed.
+[INFO ] 2024-09-23 22:33:49.544 - ====================================================
+[INFO ] 2024-09-23 22:33:49.548 - ======================================================
+[INFO ] 2024-09-23 22:33:49.549 - Initializing the browser.
+[INFO ] 2024-09-23 22:33:50.319 - Browser initializing completed.
+[INFO ] 2024-09-23 22:33:50.320 - Opening the URL
+[INFO ] 2024-09-23 22:33:54.200 - Test case openSavingAccount execution started.
+[INFO ] 2024-09-23 22:33:54.828 - Submit Button Clicked.
+[ERROR] 2024-09-23 22:34:15.133 - Test case failed with name openSavingAccount
+org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[ChromeDriver: chrome on windows (330d13b82bbd724b143dce3b097670ac)] -> xpath: //div[@id='rightPanel']//div/child::div[@id='openAccountResult']/h1] (tried for 20 second(s) with 500 milliseconds interval)
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.86 (3045ed680fda..., userDataDir: C:\Users\bhrx\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51011}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51011/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 330d13b82bbd724b143dce3b097670ac
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84) ~[selenium-support-4.24.0.jar:?]
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228) ~[selenium-support-4.24.0.jar:?]
+	at com.parabankautomationtest.OpenAccountTest.openSavingAccount(OpenAccountTest.java:47) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestRunner.run(TestRunner.java:614) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+[INFO ] 2024-09-23 22:34:15.519 - ====================================================
+[INFO ] 2024-09-23 22:34:15.788 - Browser closed.
+[INFO ] 2024-09-23 22:34:15.789 - ====================================================
+[INFO ] 2024-09-23 22:34:15.797 - ======================================================
+[INFO ] 2024-09-23 22:34:15.798 - Initializing the browser.
+[INFO ] 2024-09-23 22:34:16.554 - Browser initializing completed.
+[INFO ] 2024-09-23 22:34:16.554 - Opening the URL
+[INFO ] 2024-09-23 22:34:20.736 - Test case loanApproved execution started.
+[ERROR] 2024-09-23 22:35:20.824 - Test case failed with name loanApproved
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Request Loan']"}
+  (Session info: chrome=128.0.6613.138)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4388bd9588892999ec9b3064ce0db712, findElement {using=xpath, value=//a[text()='Request Loan']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.86 (3045ed680fda..., userDataDir: C:\Users\bhrx\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51034}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:51034/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4388bd9588892999ec9b3064ce0db712
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:68) ~[selenium-support-4.24.0.jar:?]
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38) ~[selenium-support-4.24.0.jar:?]
+	at jdk.proxy2.$Proxy32.click(Unknown Source) ~[?:?]
+	at com.pages.RequestLoanPage.requestLoanMethod(RequestLoanPage.java:25) ~[classes/:?]
+	at com.parabankautomationtest.RequestLoanPageTest.loanApproved(RequestLoanPageTest.java:43) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestRunner.run(TestRunner.java:614) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+[INFO ] 2024-09-23 22:35:21.193 - ====================================================
+[INFO ] 2024-09-23 22:35:21.439 - Browser closed.
+[INFO ] 2024-09-23 22:35:21.439 - ====================================================
+[INFO ] 2024-09-23 22:35:21.445 - ======================================================
+[INFO ] 2024-09-23 22:35:21.446 - Initializing the browser.
+[INFO ] 2024-09-23 22:35:22.239 - Browser initializing completed.
+[INFO ] 2024-09-23 22:35:22.240 - Opening the URL
+[INFO ] 2024-09-23 22:35:27.236 - Test case loanDenied execution started.
+[INFO ] 2024-09-23 22:35:28.353 - Test case success with name loanDenied
+[INFO ] 2024-09-23 22:35:28.618 - Browser closed.
+[INFO ] 2024-09-23 22:35:28.618 - ====================================================
+[DEBUG] 2024-09-23 22:44:12.686 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-23 22:44:12.690 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-23 22:44:12.691 - Parsing relationship: /_rels/.rels
+[TRACE] 2024-09-23 22:44:12.830 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 22:44:12.833 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 22:44:12.833 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 22:44:12.834 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 22:44:12.834 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 22:44:12.835 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 22:44:12.846 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 22:44:12.847 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 22:44:12.851 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 22:44:12.852 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 22:44:12.853 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 22:44:12.853 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 22:44:12.854 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 22:44:12.855 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 22:44:12.903 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 22:44:12.904 - Resolving type for handle themefd26doctype
+[TRACE] 2024-09-23 22:44:12.956 - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-09-23 22:44:12.962 - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-09-23 22:44:12.966 - Resolving type for handle ctfonts6623type
+[TRACE] 2024-09-23 22:44:12.969 - Resolving type for handle ctfont14d8type
+[TRACE] 2024-09-23 22:44:12.973 - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-09-23 22:44:12.975 - Resolving type for handle ctfill550ctype
+[TRACE] 2024-09-23 22:44:12.978 - Resolving type for handle ctborders0d66type
+[TRACE] 2024-09-23 22:44:12.980 - Resolving type for handle ctborderf935type
+[TRACE] 2024-09-23 22:44:12.983 - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-09-23 22:44:12.985 - Resolving type for handle ctxf97f7type
+[TRACE] 2024-09-23 22:44:12.988 - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-09-23 22:44:12.990 - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-09-23 22:44:12.992 - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-09-23 22:44:12.996 - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-09-23 22:44:12.999 - Resolving type for handle ctsst44f3type
+[TRACE] 2024-09-23 22:44:13.006 - Resolving type for handle ctrsta472type
+[DEBUG] 2024-09-23 22:44:13.025 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-09-23 22:44:13.026 - Resolving type for handle workbookec17doctype
+[TRACE] 2024-09-23 22:44:13.032 - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-09-23 22:44:13.039 - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-09-23 22:44:13.044 - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-09-23 22:44:13.046 - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-09-23 22:44:13.048 - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-09-23 22:44:13.054 - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-09-23 22:44:13.065 - Resolving type for handle ctcols627ctype
+[TRACE] 2024-09-23 22:44:13.069 - Resolving type for handle ctcola95ftype
+[TRACE] 2024-09-23 22:44:13.085 - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-09-23 22:44:13.088 - Resolving type for handle ctrowdd39type
+[TRACE] 2024-09-23 22:44:13.095 - Resolving type for handle ctcell842btype
+[TRACE] 2024-09-23 22:44:13.101 - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-09-23 22:44:13.106 - Resolving type for handle cthyperlinks6416type
+[TRACE] 2024-09-23 22:44:13.108 - Resolving type for handle cthyperlink0c85type
+[TRACE] 2024-09-23 22:44:13.115 - Resolving type for handle stxstringf179type
+[TRACE] 2024-09-23 22:44:13.117 - Resolving type for handle stcelltypebf95type
+[TRACE] 2024-09-23 22:44:13.131 - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2024-09-23 22:44:13.135 - Resolving type for handle stnumfmtid76fbtype
+[INFO ] 2024-09-23 22:44:13.146 - ======================================================
+[INFO ] 2024-09-23 22:44:13.147 - Initializing the browser.
+[INFO ] 2024-09-23 22:44:14.277 - Browser initializing completed.
+[INFO ] 2024-09-23 22:44:14.278 - Opening the URL
+[INFO ] 2024-09-23 22:44:18.896 - Test case alreadyExistCustomer execution started.
+[INFO ] 2024-09-23 22:44:19.930 - Test case success with name alreadyExistCustomer
+[INFO ] 2024-09-23 22:44:20.242 - Browser closed.
+[INFO ] 2024-09-23 22:44:20.243 - ====================================================
+[DEBUG] 2024-09-23 22:44:20.267 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-23 22:44:20.269 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-23 22:44:20.270 - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-09-23 22:44:20.288 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-09-23 22:44:20.299 - ======================================================
+[INFO ] 2024-09-23 22:44:20.299 - Initializing the browser.
+[INFO ] 2024-09-23 22:44:21.038 - Browser initializing completed.
+[INFO ] 2024-09-23 22:44:21.038 - Opening the URL
+[INFO ] 2024-09-23 22:44:24.428 - Test case registrationSuccessfull execution started.
+[INFO ] 2024-09-23 22:44:25.482 - Test case success with name registrationSuccessfull
+[INFO ] 2024-09-23 22:44:25.782 - Browser closed.
+[INFO ] 2024-09-23 22:44:25.783 - ====================================================
+[INFO ] 2024-09-23 22:44:25.790 - ======================================================
+[INFO ] 2024-09-23 22:44:25.791 - Initializing the browser.
+[INFO ] 2024-09-23 22:44:26.580 - Browser initializing completed.
+[INFO ] 2024-09-23 22:44:26.581 - Opening the URL
+[INFO ] 2024-09-23 22:44:29.171 - Test case SuccessfulLogin execution started.
+[INFO ] 2024-09-23 22:45:29.988 - Test case skipped with name SuccessfulLogin
+[INFO ] 2024-09-23 22:45:29.988 - ====================================================
+[INFO ] 2024-09-23 22:45:30.137 - Browser closed.
+[INFO ] 2024-09-23 22:45:30.137 - ====================================================
+[INFO ] 2024-09-23 22:45:30.140 - ======================================================
+[INFO ] 2024-09-23 22:45:30.140 - Initializing the browser.
+[INFO ] 2024-09-23 22:45:30.866 - Browser initializing completed.
+[INFO ] 2024-09-23 22:45:30.867 - Opening the URL
+[INFO ] 2024-09-23 22:45:33.066 - Test case SuccessfulLogin execution started.
+[INFO ] 2024-09-23 22:45:34.004 - Test case success with name SuccessfulLogin
+[INFO ] 2024-09-23 22:45:34.288 - Browser closed.
+[INFO ] 2024-09-23 22:45:34.288 - ====================================================
+[INFO ] 2024-09-23 22:45:34.291 - ======================================================
+[INFO ] 2024-09-23 22:45:34.291 - Initializing the browser.
+[INFO ] 2024-09-23 22:45:35.043 - Browser initializing completed.
+[INFO ] 2024-09-23 22:45:35.045 - Opening the URL
+[INFO ] 2024-09-23 22:45:38.943 - Test case openSavingAccount execution started.
+[INFO ] 2024-09-23 22:45:39.572 - Submit Button Clicked.
+[INFO ] 2024-09-23 22:45:59.833 - Test case skipped with name openSavingAccount
+[INFO ] 2024-09-23 22:45:59.834 - ====================================================
+[INFO ] 2024-09-23 22:46:00.058 - Browser closed.
+[INFO ] 2024-09-23 22:46:00.059 - ====================================================
+[INFO ] 2024-09-23 22:46:00.061 - ======================================================
+[INFO ] 2024-09-23 22:46:00.062 - Initializing the browser.
+[INFO ] 2024-09-23 22:46:00.939 - Browser initializing completed.
+[INFO ] 2024-09-23 22:46:00.940 - Opening the URL
+[INFO ] 2024-09-23 22:46:04.244 - Test case openSavingAccount execution started.
+[INFO ] 2024-09-23 22:46:04.848 - Submit Button Clicked.
+[INFO ] 2024-09-23 22:46:25.188 - Test case skipped with name openSavingAccount
+[INFO ] 2024-09-23 22:46:25.189 - ====================================================
+[INFO ] 2024-09-23 22:46:25.421 - Browser closed.
+[INFO ] 2024-09-23 22:46:25.423 - ====================================================
+[INFO ] 2024-09-23 22:46:25.429 - ======================================================
+[INFO ] 2024-09-23 22:46:25.430 - Initializing the browser.
+[INFO ] 2024-09-23 22:46:26.232 - Browser initializing completed.
+[INFO ] 2024-09-23 22:46:26.233 - Opening the URL
+[INFO ] 2024-09-23 22:46:30.005 - Test case openSavingAccount execution started.
+[INFO ] 2024-09-23 22:46:31.069 - Submit Button Clicked.
+[INFO ] 2024-09-23 22:46:40.025 - Test case success with name openSavingAccount
+[INFO ] 2024-09-23 22:46:40.289 - Browser closed.
+[INFO ] 2024-09-23 22:46:40.289 - ====================================================
+[INFO ] 2024-09-23 22:46:40.290 - ======================================================
+[INFO ] 2024-09-23 22:46:40.290 - Initializing the browser.
+[INFO ] 2024-09-23 22:46:41.059 - Browser initializing completed.
+[INFO ] 2024-09-23 22:46:41.062 - Opening the URL
+[INFO ] 2024-09-23 22:46:44.412 - Test case loanApproved execution started.
+[INFO ] 2024-09-23 22:46:45.718 - Test case success with name loanApproved
+[INFO ] 2024-09-23 22:46:45.969 - Browser closed.
+[INFO ] 2024-09-23 22:46:45.969 - ====================================================
+[INFO ] 2024-09-23 22:46:45.973 - ======================================================
+[INFO ] 2024-09-23 22:46:45.973 - Initializing the browser.
+[INFO ] 2024-09-23 22:46:46.815 - Browser initializing completed.
+[INFO ] 2024-09-23 22:46:46.816 - Opening the URL
+[INFO ] 2024-09-23 22:46:51.309 - Test case loanDenied execution started.
+[INFO ] 2024-09-23 22:46:52.421 - Test case success with name loanDenied
+[INFO ] 2024-09-23 22:46:52.670 - Browser closed.
+[INFO ] 2024-09-23 22:46:52.671 - ====================================================

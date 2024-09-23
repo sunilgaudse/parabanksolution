@@ -3,18 +3,28 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <listeners>
     <listener class-name="com.listener.MyListener"/>
+    <listener class-name="com.utilities.RetryListner"/>
   </listeners>
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.parabankautomationtest.RegisterPageTest">
+      <class name="com.parabankautomationtest.OpenAccountTest">
+        <methods>
+          <include name="openSavingAccount"/>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="closeReport"/>
+          <include name="reportInitialisation"/>
+        </methods>
+      </class> <!-- com.parabankautomationtest.OpenAccountTest -->
+      <class name="com.parabankautomationtest.LoginPageTest">
         <methods>
           <include name="tearDown"/>
           <include name="reportInitialisation"/>
-          <include name="setup"/>
           <include name="closeReport"/>
-          <include name="alreadyExistCustomer" invocation-numbers="0"/>
+          <include name="setup"/>
+          <include name="SuccessfulLogin"/>
         </methods>
-      </class> <!-- com.parabankautomationtest.RegisterPageTest -->
+      </class> <!-- com.parabankautomationtest.LoginPageTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
