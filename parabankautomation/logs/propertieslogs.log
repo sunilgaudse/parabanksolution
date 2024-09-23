@@ -1314,3 +1314,382 @@ Session ID: 931e386fdf5970995c33fa192e309f3f
 	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
 	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
 	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+[DEBUG] 2024-09-23 21:40:15.605 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-23 21:40:15.612 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-23 21:40:15.613 - Parsing relationship: /_rels/.rels
+[TRACE] 2024-09-23 21:40:15.763 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 21:40:15.766 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 21:40:15.766 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 21:40:15.767 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 21:40:15.767 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 21:40:15.768 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 21:40:15.777 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 21:40:15.778 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 21:40:15.783 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 21:40:15.784 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 21:40:15.786 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 21:40:15.786 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 21:40:15.787 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 21:40:15.787 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 21:40:15.835 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 21:40:15.836 - Resolving type for handle themefd26doctype
+[TRACE] 2024-09-23 21:40:15.906 - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-09-23 21:40:15.913 - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-09-23 21:40:15.919 - Resolving type for handle ctfonts6623type
+[TRACE] 2024-09-23 21:40:15.922 - Resolving type for handle ctfont14d8type
+[TRACE] 2024-09-23 21:40:15.926 - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-09-23 21:40:15.928 - Resolving type for handle ctfill550ctype
+[TRACE] 2024-09-23 21:40:15.930 - Resolving type for handle ctborders0d66type
+[TRACE] 2024-09-23 21:40:15.935 - Resolving type for handle ctborderf935type
+[TRACE] 2024-09-23 21:40:15.939 - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-09-23 21:40:15.943 - Resolving type for handle ctxf97f7type
+[TRACE] 2024-09-23 21:40:15.946 - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-09-23 21:40:15.951 - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-09-23 21:40:15.954 - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-09-23 21:40:15.958 - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-09-23 21:40:15.962 - Resolving type for handle ctsst44f3type
+[TRACE] 2024-09-23 21:40:15.979 - Resolving type for handle ctrsta472type
+[DEBUG] 2024-09-23 21:40:16.012 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-09-23 21:40:16.013 - Resolving type for handle workbookec17doctype
+[TRACE] 2024-09-23 21:40:16.019 - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-09-23 21:40:16.025 - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-09-23 21:40:16.028 - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-09-23 21:40:16.031 - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-09-23 21:40:16.035 - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-09-23 21:40:16.040 - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-09-23 21:40:16.049 - Resolving type for handle ctcols627ctype
+[TRACE] 2024-09-23 21:40:16.056 - Resolving type for handle ctcola95ftype
+[TRACE] 2024-09-23 21:40:16.073 - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-09-23 21:40:16.077 - Resolving type for handle ctrowdd39type
+[TRACE] 2024-09-23 21:40:16.085 - Resolving type for handle ctcell842btype
+[TRACE] 2024-09-23 21:40:16.097 - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-09-23 21:40:16.105 - Resolving type for handle cthyperlinks6416type
+[TRACE] 2024-09-23 21:40:16.107 - Resolving type for handle cthyperlink0c85type
+[TRACE] 2024-09-23 21:40:16.115 - Resolving type for handle stxstringf179type
+[TRACE] 2024-09-23 21:40:16.118 - Resolving type for handle stcelltypebf95type
+[TRACE] 2024-09-23 21:40:16.136 - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2024-09-23 21:40:16.140 - Resolving type for handle stnumfmtid76fbtype
+[INFO ] 2024-09-23 21:40:16.156 - ======================================================
+[INFO ] 2024-09-23 21:40:16.157 - Initializing the browser.
+[INFO ] 2024-09-23 21:40:17.585 - Browser initializing completed.
+[INFO ] 2024-09-23 21:40:17.585 - Opening the URL
+[INFO ] 2024-09-23 21:40:21.766 - Test case alreadyExistCustomer execution started.
+[ERROR] 2024-09-23 21:41:23.349 - Test case failed with name alreadyExistCustomer
+org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"#customer\.username\.errors"}
+  (Session info: chrome=128.0.6613.138)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.24.0', revision: '748ffc9bc3'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.12'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bc02eb63e1bbfb7f7f02b8ee5c4fb26a, findElement {value=customer.username.errors, using=id}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.86 (3045ed680fda..., userDataDir: C:\Users\bhrx\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49949}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:49949/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bc02eb63e1bbfb7f7f02b8ee5c4fb26a
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45) ~[?:?]
+	at java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500) ~[?:?]
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:481) ~[?:?]
+	at org.openqa.selenium.remote.ErrorCodec.decode(ErrorCodec.java:167) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:138) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:50) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:545) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation$ElementFinder$2.findElement(ElementLocation.java:165) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.ElementLocation.findElement(ElementLocation.java:59) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:368) ~[selenium-remote-driver-4.24.0.jar:?]
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362) ~[selenium-remote-driver-4.24.0.jar:?]
+	at com.parabankautomationtest.RegisterPageTest.alreadyExistCustomer(RegisterPageTest.java:63) ~[test-classes/:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:569) ~[?:?]
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:686) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:230) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:63) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:992) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:203) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:154) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:134) ~[org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) [?:?]
+	at org.testng.TestRunner.privateRun(TestRunner.java:739) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestRunner.run(TestRunner.java:614) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.runSuites(TestNG.java:1112) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.TestNG.run(TestNG.java:1079) [org.testng_7.10.1.r202404130807.jar:7.10.1]
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:293) [testng-remote.jar:?]
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:91) [testng-remote.jar:?]
+[INFO ] 2024-09-23 21:41:23.977 - ====================================================
+[INFO ] 2024-09-23 21:41:24.217 - Browser closed.
+[INFO ] 2024-09-23 21:41:24.218 - ====================================================
+[DEBUG] 2024-09-23 21:41:24.236 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-23 21:41:24.241 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-23 21:41:24.246 - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-09-23 21:41:24.268 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-09-23 21:41:24.284 - ======================================================
+[INFO ] 2024-09-23 21:41:24.284 - Initializing the browser.
+[INFO ] 2024-09-23 21:41:24.990 - Browser initializing completed.
+[INFO ] 2024-09-23 21:41:24.990 - Opening the URL
+[INFO ] 2024-09-23 21:41:28.964 - Test case registrationSuccessfull execution started.
+[INFO ] 2024-09-23 21:41:30.113 - Test case success with name registrationSuccessfull
+[INFO ] 2024-09-23 21:41:30.316 - Browser closed.
+[INFO ] 2024-09-23 21:41:30.318 - ====================================================
+[INFO ] 2024-09-23 21:41:30.339 - ======================================================
+[INFO ] 2024-09-23 21:41:30.341 - Initializing the browser.
+[INFO ] 2024-09-23 21:41:31.131 - Browser initializing completed.
+[INFO ] 2024-09-23 21:41:31.132 - Opening the URL
+[INFO ] 2024-09-23 21:41:34.180 - Test case SuccessfulLogin execution started.
+[INFO ] 2024-09-23 21:41:36.156 - Test case success with name SuccessfulLogin
+[INFO ] 2024-09-23 21:41:36.383 - Browser closed.
+[INFO ] 2024-09-23 21:41:36.383 - ====================================================
+[INFO ] 2024-09-23 21:41:36.384 - ======================================================
+[INFO ] 2024-09-23 21:41:36.385 - Initializing the browser.
+[INFO ] 2024-09-23 21:41:37.130 - Browser initializing completed.
+[INFO ] 2024-09-23 21:41:37.131 - Opening the URL
+[INFO ] 2024-09-23 21:41:41.239 - Test case openSavingAccount execution started.
+[INFO ] 2024-09-23 21:41:41.883 - Submit Button Clicked.
+[INFO ] 2024-09-23 21:41:42.438 - Test case success with name openSavingAccount
+[INFO ] 2024-09-23 21:41:42.679 - Browser closed.
+[INFO ] 2024-09-23 21:41:42.679 - ====================================================
+[INFO ] 2024-09-23 21:41:42.686 - ======================================================
+[INFO ] 2024-09-23 21:41:42.687 - Initializing the browser.
+[INFO ] 2024-09-23 21:41:43.445 - Browser initializing completed.
+[INFO ] 2024-09-23 21:41:43.445 - Opening the URL
+[INFO ] 2024-09-23 21:41:47.586 - Test case loanApproved execution started.
+[INFO ] 2024-09-23 21:41:48.806 - Test case success with name loanApproved
+[INFO ] 2024-09-23 21:41:49.065 - Browser closed.
+[INFO ] 2024-09-23 21:41:49.065 - ====================================================
+[INFO ] 2024-09-23 21:41:49.070 - ======================================================
+[INFO ] 2024-09-23 21:41:49.070 - Initializing the browser.
+[INFO ] 2024-09-23 21:41:49.784 - Browser initializing completed.
+[INFO ] 2024-09-23 21:41:49.785 - Opening the URL
+[INFO ] 2024-09-23 21:41:53.031 - Test case loanDenied execution started.
+[INFO ] 2024-09-23 21:41:54.197 - Test case success with name loanDenied
+[INFO ] 2024-09-23 21:41:54.466 - Browser closed.
+[INFO ] 2024-09-23 21:41:54.466 - ====================================================
+[DEBUG] 2024-09-23 21:57:56.076 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-23 21:57:56.081 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-23 21:57:56.082 - Parsing relationship: /_rels/.rels
+[TRACE] 2024-09-23 21:57:56.226 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 21:57:56.229 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 21:57:56.229 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 21:57:56.229 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 21:57:56.230 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 21:57:56.231 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 21:57:56.243 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 21:57:56.244 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 21:57:56.249 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 21:57:56.250 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 21:57:56.251 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 21:57:56.252 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 21:57:56.253 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 21:57:56.253 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 21:57:56.300 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 21:57:56.301 - Resolving type for handle themefd26doctype
+[TRACE] 2024-09-23 21:57:56.352 - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-09-23 21:57:56.358 - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-09-23 21:57:56.362 - Resolving type for handle ctfonts6623type
+[TRACE] 2024-09-23 21:57:56.364 - Resolving type for handle ctfont14d8type
+[TRACE] 2024-09-23 21:57:56.367 - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-09-23 21:57:56.369 - Resolving type for handle ctfill550ctype
+[TRACE] 2024-09-23 21:57:56.371 - Resolving type for handle ctborders0d66type
+[TRACE] 2024-09-23 21:57:56.372 - Resolving type for handle ctborderf935type
+[TRACE] 2024-09-23 21:57:56.375 - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-09-23 21:57:56.378 - Resolving type for handle ctxf97f7type
+[TRACE] 2024-09-23 21:57:56.380 - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-09-23 21:57:56.382 - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-09-23 21:57:56.384 - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-09-23 21:57:56.387 - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-09-23 21:57:56.391 - Resolving type for handle ctsst44f3type
+[TRACE] 2024-09-23 21:57:56.400 - Resolving type for handle ctrsta472type
+[DEBUG] 2024-09-23 21:57:56.420 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-09-23 21:57:56.421 - Resolving type for handle workbookec17doctype
+[TRACE] 2024-09-23 21:57:56.427 - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-09-23 21:57:56.434 - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-09-23 21:57:56.436 - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-09-23 21:57:56.438 - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-09-23 21:57:56.440 - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-09-23 21:57:56.447 - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-09-23 21:57:56.454 - Resolving type for handle ctcols627ctype
+[TRACE] 2024-09-23 21:57:56.458 - Resolving type for handle ctcola95ftype
+[TRACE] 2024-09-23 21:57:56.478 - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-09-23 21:57:56.481 - Resolving type for handle ctrowdd39type
+[TRACE] 2024-09-23 21:57:56.487 - Resolving type for handle ctcell842btype
+[TRACE] 2024-09-23 21:57:56.495 - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-09-23 21:57:56.501 - Resolving type for handle cthyperlinks6416type
+[TRACE] 2024-09-23 21:57:56.505 - Resolving type for handle cthyperlink0c85type
+[TRACE] 2024-09-23 21:57:56.511 - Resolving type for handle stxstringf179type
+[TRACE] 2024-09-23 21:57:56.514 - Resolving type for handle stcelltypebf95type
+[TRACE] 2024-09-23 21:57:56.527 - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2024-09-23 21:57:56.530 - Resolving type for handle stnumfmtid76fbtype
+[INFO ] 2024-09-23 21:57:56.541 - ======================================================
+[INFO ] 2024-09-23 21:57:56.541 - Initializing the browser.
+[INFO ] 2024-09-23 21:57:57.623 - Browser initializing completed.
+[INFO ] 2024-09-23 21:57:57.624 - Opening the URL
+[INFO ] 2024-09-23 21:58:02.863 - Test case alreadyExistCustomer execution started.
+[INFO ] 2024-09-23 21:58:04.000 - Test case success with name alreadyExistCustomer
+[INFO ] 2024-09-23 21:58:04.291 - Browser closed.
+[INFO ] 2024-09-23 21:58:04.291 - ====================================================
+[DEBUG] 2024-09-23 21:58:04.297 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-23 21:58:04.299 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-23 21:58:04.299 - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-09-23 21:58:04.313 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-09-23 21:58:04.321 - ======================================================
+[INFO ] 2024-09-23 21:58:04.321 - Initializing the browser.
+[INFO ] 2024-09-23 21:58:05.039 - Browser initializing completed.
+[INFO ] 2024-09-23 21:58:05.039 - Opening the URL
+[INFO ] 2024-09-23 21:58:08.685 - Test case registrationSuccessfull execution started.
+[INFO ] 2024-09-23 21:58:10.313 - Test case success with name registrationSuccessfull
+[INFO ] 2024-09-23 21:58:10.587 - Browser closed.
+[INFO ] 2024-09-23 21:58:10.587 - ====================================================
+[INFO ] 2024-09-23 21:58:10.590 - ======================================================
+[INFO ] 2024-09-23 21:58:10.590 - Initializing the browser.
+[INFO ] 2024-09-23 21:58:11.312 - Browser initializing completed.
+[INFO ] 2024-09-23 21:58:11.312 - Opening the URL
+[INFO ] 2024-09-23 21:58:14.378 - Test case SuccessfulLogin execution started.
+[INFO ] 2024-09-23 21:58:16.051 - Test case success with name SuccessfulLogin
+[INFO ] 2024-09-23 21:58:16.304 - Browser closed.
+[INFO ] 2024-09-23 21:58:16.305 - ====================================================
+[INFO ] 2024-09-23 21:58:16.306 - ======================================================
+[INFO ] 2024-09-23 21:58:16.306 - Initializing the browser.
+[INFO ] 2024-09-23 21:58:17.010 - Browser initializing completed.
+[INFO ] 2024-09-23 21:58:17.011 - Opening the URL
+[INFO ] 2024-09-23 21:58:21.577 - Test case openSavingAccount execution started.
+[INFO ] 2024-09-23 21:58:22.204 - Submit Button Clicked.
+[INFO ] 2024-09-23 21:58:22.761 - Test case success with name openSavingAccount
+[INFO ] 2024-09-23 21:58:23.032 - Browser closed.
+[INFO ] 2024-09-23 21:58:23.032 - ====================================================
+[INFO ] 2024-09-23 21:58:23.034 - ======================================================
+[INFO ] 2024-09-23 21:58:23.034 - Initializing the browser.
+[INFO ] 2024-09-23 21:58:23.734 - Browser initializing completed.
+[INFO ] 2024-09-23 21:58:23.734 - Opening the URL
+[INFO ] 2024-09-23 21:58:27.532 - Test case loanApproved execution started.
+[INFO ] 2024-09-23 21:58:28.735 - Test case success with name loanApproved
+[INFO ] 2024-09-23 21:58:29.015 - Browser closed.
+[INFO ] 2024-09-23 21:58:29.015 - ====================================================
+[INFO ] 2024-09-23 21:58:29.017 - ======================================================
+[INFO ] 2024-09-23 21:58:29.017 - Initializing the browser.
+[INFO ] 2024-09-23 21:58:29.749 - Browser initializing completed.
+[INFO ] 2024-09-23 21:58:29.749 - Opening the URL
+[INFO ] 2024-09-23 21:58:33.608 - Test case loanDenied execution started.
+[INFO ] 2024-09-23 21:58:34.780 - Test case success with name loanDenied
+[INFO ] 2024-09-23 21:58:35.052 - Browser closed.
+[INFO ] 2024-09-23 21:58:35.052 - ====================================================
+[DEBUG] 2024-09-23 22:21:10.339 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-23 22:21:10.345 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-23 22:21:10.347 - Parsing relationship: /_rels/.rels
+[TRACE] 2024-09-23 22:21:10.565 - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 22:21:10.568 - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 22:21:10.569 - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 22:21:10.569 - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 22:21:10.569 - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 22:21:10.571 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 22:21:10.586 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+[TRACE] 2024-09-23 22:21:10.588 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 22:21:10.594 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+[TRACE] 2024-09-23 22:21:10.595 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 22:21:10.596 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+[TRACE] 2024-09-23 22:21:10.598 - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 22:21:10.599 - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+[TRACE] 2024-09-23 22:21:10.601 - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 22:21:10.662 - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+[TRACE] 2024-09-23 22:21:10.663 - Resolving type for handle themefd26doctype
+[TRACE] 2024-09-23 22:21:10.741 - Resolving type for handle stylesheet5d8bdoctype
+[TRACE] 2024-09-23 22:21:10.748 - Resolving type for handle ctstylesheet4257type
+[TRACE] 2024-09-23 22:21:10.754 - Resolving type for handle ctfonts6623type
+[TRACE] 2024-09-23 22:21:10.758 - Resolving type for handle ctfont14d8type
+[TRACE] 2024-09-23 22:21:10.765 - Resolving type for handle ctfills2c6ftype
+[TRACE] 2024-09-23 22:21:10.768 - Resolving type for handle ctfill550ctype
+[TRACE] 2024-09-23 22:21:10.770 - Resolving type for handle ctborders0d66type
+[TRACE] 2024-09-23 22:21:10.773 - Resolving type for handle ctborderf935type
+[TRACE] 2024-09-23 22:21:10.778 - Resolving type for handle ctcellxfs1322type
+[TRACE] 2024-09-23 22:21:10.781 - Resolving type for handle ctxf97f7type
+[TRACE] 2024-09-23 22:21:10.785 - Resolving type for handle ctcellstylexfsa81ftype
+[TRACE] 2024-09-23 22:21:10.787 - Resolving type for handle ctdxfsb26atype
+[TRACE] 2024-09-23 22:21:10.791 - Resolving type for handle cttablestyles872ftype
+[TRACE] 2024-09-23 22:21:10.795 - Resolving type for handle sstf81fdoctype
+[TRACE] 2024-09-23 22:21:10.800 - Resolving type for handle ctsst44f3type
+[TRACE] 2024-09-23 22:21:10.815 - Resolving type for handle ctrsta472type
+[DEBUG] 2024-09-23 22:21:10.848 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[TRACE] 2024-09-23 22:21:10.849 - Resolving type for handle workbookec17doctype
+[TRACE] 2024-09-23 22:21:10.857 - Resolving type for handle ctworkbook83c3type
+[TRACE] 2024-09-23 22:21:10.866 - Resolving type for handle ctsheets49fdtype
+[TRACE] 2024-09-23 22:21:10.871 - Resolving type for handle ctsheet4dbetype
+[TRACE] 2024-09-23 22:21:10.876 - Resolving type for handle strelationshipid1e94type
+[TRACE] 2024-09-23 22:21:10.880 - Resolving type for handle worksheetf539doctype
+[TRACE] 2024-09-23 22:21:10.886 - Resolving type for handle ctworksheet530dtype
+[TRACE] 2024-09-23 22:21:10.902 - Resolving type for handle ctcols627ctype
+[TRACE] 2024-09-23 22:21:10.909 - Resolving type for handle ctcola95ftype
+[TRACE] 2024-09-23 22:21:10.933 - Resolving type for handle ctsheetdata8408type
+[TRACE] 2024-09-23 22:21:10.938 - Resolving type for handle ctrowdd39type
+[TRACE] 2024-09-23 22:21:10.946 - Resolving type for handle ctcell842btype
+[TRACE] 2024-09-23 22:21:10.960 - Resolving type for handle stcellrefe4e0type
+[TRACE] 2024-09-23 22:21:10.970 - Resolving type for handle cthyperlinks6416type
+[TRACE] 2024-09-23 22:21:10.973 - Resolving type for handle cthyperlink0c85type
+[TRACE] 2024-09-23 22:21:10.985 - Resolving type for handle stxstringf179type
+[TRACE] 2024-09-23 22:21:10.990 - Resolving type for handle stcelltypebf95type
+[TRACE] 2024-09-23 22:21:11.020 - Resolving type for handle stcellstylexfid70c7type
+[TRACE] 2024-09-23 22:21:11.025 - Resolving type for handle stnumfmtid76fbtype
+[INFO ] 2024-09-23 22:21:11.053 - ======================================================
+[INFO ] 2024-09-23 22:21:11.054 - Initializing the browser.
+[INFO ] 2024-09-23 22:21:13.015 - Browser initializing completed.
+[INFO ] 2024-09-23 22:21:13.017 - Opening the URL
+[INFO ] 2024-09-23 22:21:18.258 - Test case alreadyExistCustomer execution started.
+[INFO ] 2024-09-23 22:21:20.706 - Test case success with name alreadyExistCustomer
+[INFO ] 2024-09-23 22:21:21.090 - Browser closed.
+[INFO ] 2024-09-23 22:21:21.090 - ====================================================
+[DEBUG] 2024-09-23 22:21:21.113 - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2024-09-23 22:21:21.116 - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2024-09-23 22:21:21.119 - Parsing relationship: /_rels/.rels
+[DEBUG] 2024-09-23 22:21:21.160 - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+[INFO ] 2024-09-23 22:21:21.192 - ======================================================
+[INFO ] 2024-09-23 22:21:21.192 - Initializing the browser.
+[INFO ] 2024-09-23 22:21:22.267 - Browser initializing completed.
+[INFO ] 2024-09-23 22:21:22.267 - Opening the URL
+[INFO ] 2024-09-23 22:21:28.149 - Test case registrationSuccessfull execution started.
+[INFO ] 2024-09-23 22:21:31.808 - Test case success with name registrationSuccessfull
+[INFO ] 2024-09-23 22:21:32.186 - Browser closed.
+[INFO ] 2024-09-23 22:21:32.186 - ====================================================
+[INFO ] 2024-09-23 22:21:32.195 - ======================================================
+[INFO ] 2024-09-23 22:21:32.195 - Initializing the browser.
+[INFO ] 2024-09-23 22:21:33.093 - Browser initializing completed.
+[INFO ] 2024-09-23 22:21:33.094 - Opening the URL
+[INFO ] 2024-09-23 22:21:36.578 - Test case SuccessfulLogin execution started.
+[INFO ] 2024-09-23 22:21:38.047 - Test case success with name SuccessfulLogin
+[INFO ] 2024-09-23 22:21:38.430 - Browser closed.
+[INFO ] 2024-09-23 22:21:38.430 - ====================================================
+[INFO ] 2024-09-23 22:21:38.432 - ======================================================
+[INFO ] 2024-09-23 22:21:38.432 - Initializing the browser.
+[INFO ] 2024-09-23 22:21:39.589 - Browser initializing completed.
+[INFO ] 2024-09-23 22:21:39.591 - Opening the URL
+[INFO ] 2024-09-23 22:21:44.825 - Test case openSavingAccount execution started.
+[INFO ] 2024-09-23 22:21:45.882 - Submit Button Clicked.
+[INFO ] 2024-09-23 22:21:46.531 - Test case success with name openSavingAccount
+[INFO ] 2024-09-23 22:21:46.900 - Browser closed.
+[INFO ] 2024-09-23 22:21:46.900 - ====================================================
+[INFO ] 2024-09-23 22:21:46.902 - ======================================================
+[INFO ] 2024-09-23 22:21:46.902 - Initializing the browser.
+[INFO ] 2024-09-23 22:21:47.743 - Browser initializing completed.
+[INFO ] 2024-09-23 22:21:47.746 - Opening the URL
+[INFO ] 2024-09-23 22:21:52.361 - Test case loanApproved execution started.
+[INFO ] 2024-09-23 22:21:54.165 - Test case success with name loanApproved
+[INFO ] 2024-09-23 22:21:54.546 - Browser closed.
+[INFO ] 2024-09-23 22:21:54.546 - ====================================================
+[INFO ] 2024-09-23 22:21:54.550 - ======================================================
+[INFO ] 2024-09-23 22:21:54.550 - Initializing the browser.
+[INFO ] 2024-09-23 22:21:55.754 - Browser initializing completed.
+[INFO ] 2024-09-23 22:21:55.754 - Opening the URL
+[INFO ] 2024-09-23 22:21:59.942 - Test case loanDenied execution started.
+[INFO ] 2024-09-23 22:22:01.691 - Test case success with name loanDenied
+[INFO ] 2024-09-23 22:22:02.068 - Browser closed.
+[INFO ] 2024-09-23 22:22:02.068 - ====================================================
